@@ -19,10 +19,11 @@ Sweet (Madhura), Sour (Amla), Salty (Lavana), Pungent (Katu), Bitter (Tikta), As
 
 
 ---
-**Anti allergic soup** recipe to modulate your immunity and balance your doshas
+**Anti allergic soup** recipe to modulate your immunity and balance your doshas. Stinging nettle / Brennnesseln (Urtica dioica) has anti-allergic, antihistamine, anti-inflammatory, and sinus-clearing properties when combined with other herbs. It provides first aid for allergic rhinitis and seasonal allergies. Nettle increases ojas (vitality) and acts as a nourishing tonic, especially for the kidneys and adrenals. It reduces excess pitta (heat) in the blood and lymph, helping to clear inflammatory skin conditions.
 
 ![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/b7bfb3a0-083c-45e8-9895-62cbe824f7d9)
 
+---
 **Sprouts & Raw foods** are ideal for breakfast from late spring to summer's end, especially for Pitta person. Those with weaker agni (digestive fire) can enhance digestibility with fresh ginger, black pepper, or long pepper. To improve flavour, add himalaya salt, coriander/parsley, and lemon juice and olive oil.
 
 ![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/4fb7064f-44e1-49b0-9672-e94f244a8d5e)

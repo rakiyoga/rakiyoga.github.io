@@ -10,8 +10,11 @@ Sweet (Madhura), Sour (Amla), Salty (Lavana), Pungent (Katu), Bitter (Tikta), As
 ![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/94da587a-63a2-427d-be87-1380d09eaeb8)
 
 **Seasonal Eating** : Eat local seasonal foods to maintain balance with nature's cycles, focusing on energetic properties and interaction with body constitution, with certain foods recommended to pacify aggravated doshas.
-**Immune-Boosting** :	Kindle digestive fire (agni) for immunity.
+
+**Immune-Boosting** :	Spark digestive fire (agni) for immunity.
+
 **Spices as a Catalyst** : Use herbs and spices to catalyze nutrients, improve bioavailability, and provide anti-inflammatory and immune-enhancing effects.
+
 **Dosha Balancing** : Adopt an individualized approach based on unique dosha constitution.
 
 
@@ -24,6 +27,7 @@ Sweet (Madhura), Sour (Amla), Salty (Lavana), Pungent (Katu), Bitter (Tikta), As
 
 ![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/4fb7064f-44e1-49b0-9672-e94f244a8d5e)
 
+---
 
 **Bärlauch Pesto**
 Ayurveda aligns its new year with the arrival of a new season, typically spring. During this time, the plants that naturally emerge help to reduce the accumulated Kapha from the previous winter season.

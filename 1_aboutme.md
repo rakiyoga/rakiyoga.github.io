@@ -1,27 +1,35 @@
 ---
 layout: page
 title: About me
-subtitle: Ayurveda Coach and health consulting
+subtitle: Ayurveda health consultant
 ---
+**HIPPOCRATES: You are what you eat.**
 
-Discover holistic wellness through Ayurveda, yoga, and meditation, embracing natural remedies, herbal supplements, and essential oils for stress relief, weight management, and overall health, while exploring mindfulness, organic living, and traditional Indian vedic medicine to achieve balance in mind, body, and spirit.
+**AYURVEDA: You are what you digest.**
 
-![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/dc6bbaed-6411-4c7d-a269-b28939a194b7)
+**लोकः समस्तः सुखिनो भवन्तु**  (Sanskrit Mantra: lokah samastah sukhino bhavantu)
 
-Rakesh Singh, also known as Raki is an experienced Ayurvedic practitioner with over 10 years of expertise, specializing in managing **autoimmune disorders** and **cancer** cases. His holistic approach focuses on addressing the root causes of health issues rather than just managing symptoms. As an Ayurvedic health consultant, Rakesh offers personalized treatment plans tailored to each client's unique needs. His mission is to empower individuals to take control of their health and well-being through natural and holistic methods.
+Mögen alle Wesen in allen Welten glücklich und zufrieden sein.
 
-Raki's clients aim to achieve freedom from medications and supplements by restoring balance and harmony in their bodies and minds. Through Ayurvedic treatments, dietary recommendations, and lifestyle modifications, he helps clients optimize their health and achieve their wellness goals.
+May all beings in all worlds be happy and free.
 
-Key services offered by Raki include:
+![comp](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/f366491e-829a-42a8-aa02-2cf42bc21684)
 
-  -  Personalized Ayurvedic consultations
-  -  Customized treatment plans for health issues
-  -  Dietary, lifestyle, yoga, pranayama recommendations as per individuals
-  -  Herbal remedies and natural therapies
-  -  Guidance on stress management and emotional balance
 
-By combining traditional Ayurvedic wisdom with modern health practices, Raki helps clients address the underlying causes of their health issues and achieve long-lasting results.
+Ayurvedic Harmony:
+Attaining balance in mind, body, and spirit for overall well-being and vitality.
+Principle of ayurveda lies on Balancing the three doshas; Vata, Pitta, and Kapha,for optimal health.
 
+<img width="343" alt="comp2" src="https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/fe37f874-13d8-4780-b50e-75f28c029145">
+
+
+
+
+Rakesh Singh, or Raki, gained Ayurvedic wisdom from Dr. Dilip Gadgil and other esteemed vaidyas in India, experts in healing cancer. With over 10 years of experience, Raki specializes in **autoimmune disorders** and **cancer**. His holistic approach addresses root causes of health issues.
+
+As an Ayurvedic health consultant, Raki offers personalized treatment plans tailored to each client’s needs, empowering them to take control of their health through natural methods. Raki helps clients achieve **freedom** from medications by restoring balance and harmony in body and mind through Ayurvedic treatments, dietary recommendations, and lifestyle changes.
+
+Discover holistic wellness through Ayurveda, yoga, and meditation, embracing natural remedies, herbal supplements, and super foods for stress relief, weight management, and overall health, while exploring mindfulness, organic living, and traditional Indian vedic medicine to achieve balance in mind, body, and spirit.
 
 ### My Certificates
 My recent certifications

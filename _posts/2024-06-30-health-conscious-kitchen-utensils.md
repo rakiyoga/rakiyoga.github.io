@@ -17,11 +17,11 @@ The increased iron in the food can then be absorbed by the body, helping to alle
 
 Below is the short summary of different vessels and thier tridoshic qualitiies:
 
-| Vessel| Effect on food | Impact on Doshas|
+| Vessel| Effect on food                        | Impact on Doshas       |
 | :---- |:------------------------------------- | :------------------    |
 | Clay	| Preserves nutrients, enhances flavors	| Balances all doshas    |
-| Iron	| Increases iron content	            	| Balances Vata and Kapha|
-| Silver| Cooling effect (for serving)		      | Balances Pitta         | 
+| Iron	| Increases iron content	            | Balances Vata and Kapha|
+| Silver| Cooling effect (for serving)		    | Balances Pitta         | 
 | Brass	| Cooling effect, water storage	      	| Balances Pitta         | 
 | Bronze| Improves digestion (for serving)	    | Balances Kapha         | 
 | Copper| Antimicrobial (for serving water)    	| Balances Vata and Kapha| 

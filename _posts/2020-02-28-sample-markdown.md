@@ -16,6 +16,18 @@ According to Ayurveda, the healthiness of raw versus cooked food depends on indi
 
 
 
+**Pros of Raw Diet**:
+- High fiber content aids in detoxification
+- Requires more chewing, which can improve digestion
+- May help reverse certain health conditions faster than cooked food
+- Contains more living enzymes, vitamins, and phytonutrients
+- Juices and smoothies are easily digestible and provide quick energy
+- Can make you feel lighter and require less sleep
 
+**Cons of Raw Diet**:
+- Raw vegetable cellulose and fibrous structures can be difficult to digest
+- According to Ayurveda, long-term raw diets may cause erratic metabolism
+- Overdoing raw foods may lead to inflammatory bowel issues and gut sensitivity
+- Excessive catabolic activity may deplete fat tissue, then bone, bone marrow, and reproductive tissue
 
 

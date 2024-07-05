@@ -6,8 +6,7 @@ subtitle: Contact
 
 **When to Visit Us**
 We know life can be hectic, so we've set up our schedule to be as accommodating as possible:
-Weekdays: Pop in anytime between 9 AM and 7 PM
-Saturdays & Sunday : We offer virtual consultations by appointment
+We offer in person and virtual consultations by appointment.
 
 Email: 	**kontakt@rakiyoga.de**
 

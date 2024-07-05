@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Which cooking utensils are healthier option?
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -9,10 +9,23 @@ tags: [books, test]
 author: Sharon Smith and Barry Simpson
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+According to Ayurvedic principles, different cooking vessels are considered more suitable for preparing certain types of foods. When choosing cooking vessels in Ayurveda, it's important to consider the type of food being prepared, the cooking method, and your individual dosha balance. It's also recommended to use a variety of cooking vessels to benefit from their different properties and avoid overexposure to any single material.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**Clay pot** cooking releases essential micronutrients from the clay into the food during the cooking process. This method not only cooks the food thoroughly but also transforms these micronutrients into a more bioavailable form, which is not achievable in their raw state. In contrast, pressure cooking can destroy up to 87% of micronutrients due to the intense pressure, which breaks down food molecules rather than cooking them properly. This results in food that appears cooked but is often undercooked nutritionally. Clay pots preserve micronutrients by allowing gentle, slow cooking that retains the natural juices and nutrients of the ingredients. The porous nature of clay allows for even heat distribution and moisture circulation, which helps preserve vitamins and minerals that are often lost in high-temperature cooking methods.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+**Iron cookware** enhances the iron content of leafy green vegetables through a process called iron leaching. When acidic foods or liquids come into contact with the iron surface, small amounts of iron are released into the food. This is especially beneficial when cooking leafy greens, as it can increase their iron content, making them more nutritious. Iron cookware is recommended for period pain and anemia due to its ability to increase the iron content of food, particularly leafy greens. 
+The increased iron in the food can then be absorbed by the body, helping to alleviate iron deficiency anemia and related symptoms like period pain. The scientific basis for this is the reactivity of iron with acidic compounds, which allows the iron to be released from the cookware and incorporated into the food.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Below are short summary of different vessels:
+| Vessel| Effect on food | Impact on Doshas|
+| :---- |:------------------------------------- | :------------------    |
+| Clay	| Preserves nutrients, enhances flavors	| Balances all doshas    |
+| Iron	| Increases iron content	            	| Balances Vata and Kapha|
+| Silver| Cooling effect (for serving)		      | Balances Pitta         | 
+| Brass	| Cooling effect, water storage	      	| Balances Pitta         | 
+| Bronze| Improves digestion (for serving)	    | Balances Kapha         | 
+| Copper| Antimicrobial (for serving water)    	| Balances Vata and Kapha| 
+
+
+![photo_2024-07-04_22-34-15](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/8132a819-3115-4085-b8fe-0b3efd1032fa)
+

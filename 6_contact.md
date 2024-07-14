@@ -6,8 +6,7 @@ subtitle: Contact
 
 **When to Visit Us**
 We know life can be hectic, so we've set up our schedule to be as accommodating as possible:
-Weekdays: Pop in anytime between 9 AM and 7 PM
-Saturdays & Sunday : We offer virtual consultations by appointment
+We offer in person and virtual consultations by appointment.
 
 Email: 	**kontakt@rakiyoga.de**
 
@@ -20,7 +19,7 @@ Our goal is to lead you to a balanced life and provide you with the tools to car
 **Disclaimer**: Our offerings do not replace a visit to a doctor. Please always consult a medical professional for health problems!  We provide supplementary support on your path to greater well-being.
 
 Address:
-Heidekamp 49,
+Heidekampweg 49,
 12437 Berlin
 Germany
 SMS / telephone: +49(0)17662233035

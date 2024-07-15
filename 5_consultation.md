@@ -11,11 +11,11 @@ Welcome to Raki Yoga, where ancient wisdom meets modern health needs.
 Discover a holistic Ayurvedic lifestyle with us that helps you harmonize body, mind, and soul. By combining traditional Ayurvedic wisdom with modern health practices, Raki helps clients address the underlying causes of their health issues and achieve long-lasting results.
 
 **Our Consultation Process:**
-Initial consultation to determine your constitution and understand your prakriti and current health state
-Thorough discussion of your health history and concerns
-Tongue analysis
-Personalized nutrition plan, lifestyle adjustments, and herbal support recommendations
-Herbal remedies, panchakarma, and natural detoxification guidance
+- Initial consultation to determine your constitution and understand your prakriti and current health state
+- Thorough discussion of your health history and concerns
+- Tongue analysis
+- Personalized nutrition plan, lifestyle adjustments, and herbal support recommendations
+- Herbal remedies, panchakarma, and natural detoxification guidance
 
 **Other offerings include:**
 Workshops on Ayurveda, meditation, yoga, and Yoga Nidra

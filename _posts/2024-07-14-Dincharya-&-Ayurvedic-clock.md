@@ -3,7 +3,8 @@
 
 The concept of biological rhythms and their impact on our health isn't a new discovery. In fact, it dates back thousands of years to the ancient Indian practice of Ayurveda. The Ayurvedic clock, a cornerstone of this traditional medicine system, laid the groundwork for what we now know as circadian rhythms. Centuries later, modern science began to uncover what Ayurvedic practitioners had long understood. Researchers discovered the existence of circadian rhythms - our body's internal 24-hour cycles that regulate various physiological processes. They found that these rhythms are controlled by a biological clock in our brain, much like how the Ayurvedic clock guides daily activities.
 
-<img width="414" alt="raki_clock" src="https://github.com/user-attachments/assets/84ae154f-5a79-45ba-ad0b-5ca6a8ae0bde">
+![raki_clock](https://github.com/user-attachments/assets/274fc3c3-9a30-4db5-91dd-00501c3f4e5e)
+
 
 ## Ayurvedic Morning Routine
 
@@ -21,3 +22,33 @@ The concept of biological rhythms and their impact on our health isn't a new dis
 
 A more breif activities during different dosha time period is shown in the the ayurvedic clock above.
 Dinacharya is adaptable to individual needs, allowing for personalized practices based on one's Ayurvedic dosha (Vata, Pitta, or Kapha). By incorporating these rituals, individuals can cultivate a harmonious and healthy lifestyle.
+
+**Vata: 02:00 - 00:06**
+04:30 : Wake up and drink body temperature or warm water
+5:00 : Bowel/bladder elimination
+06:00 : tongue scraping, teeth cleaning and oil pulling
+
+
+**Kapha: 06:00 - 10:00**
+06:00 : Exercise (yoga, jogging, walking)
+07:00 : Bathing, self-massage, pranayama
+08:00 : Light breakfast
+
+**Pitta: 10:00 - 14:00**
+10:00 : Work/study
+13:00 : Main meal (lunch)
+
+**Vata: 14:00 - 18:00**
+14:00: Light work/creative tasks
+16:00: Light snack if needed
+17:00: Leisure/socializing/light exercise
+
+**Kapha: 18:00 - 22:00**
+18:00 : Mindful eating, Relaxation, family
+20:00 : digital detox, Meditation or Yoga Nidra
+21:00 : Preparation for deeper sleep
+
+**Pitta: 22:00 - 02:00**
+11:00 - 01:00: Lighter, dreamless sleep, Body detoxification and repair
+01:00 - 03:00 :Deep sleep, Emotional processing and healing
+03:00 - 05:00: REM (Rapid Eye Movement) sleep, intense dreams

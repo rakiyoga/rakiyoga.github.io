@@ -1,9 +1,9 @@
-# Dincharya & Ayurvedic clock
 **Dinacharya** refers to the Ayurvedic daily routine that emphasizes self-care practices aimed at maintaining physical, mental, and spiritual well-being. This routine consists of a series of cleansing and rejuvenating activities that help remove toxins (ama) from the body and bring balance to one's life. By following a consistent daily routine, individuals can harmonize their body clock and digestion while reducing decision fatigue.
 
 The concept of biological rhythms and their impact on our health isn't a new discovery. In fact, it dates back thousands of years to the ancient Indian practice of Ayurveda. The Ayurvedic clock, a cornerstone of this traditional medicine system, laid the groundwork for what we now know as circadian rhythms. Centuries later, modern science began to uncover what Ayurvedic practitioners had long understood. Researchers discovered the existence of circadian rhythms - our body's internal 24-hour cycles that regulate various physiological processes. They found that these rhythms are controlled by a biological clock in our brain, much like how the Ayurvedic clock guides daily activities.
 
-![raki_clock](https://github.com/user-attachments/assets/274fc3c3-9a30-4db5-91dd-00501c3f4e5e)
+![Day](https://github.com/user-attachments/assets/3b1c927f-c0e0-482c-b8a1-56c16f200df2)
+
 
 
 ## Ayurvedic Morning Routine
@@ -25,7 +25,7 @@ Dinacharya is adaptable to individual needs, allowing for personalized practices
 
 **Vata: 02:00 - 00:06**
 04:30 : Wake up and drink body temperature or warm water
-5:00 : Bowel/bladder elimination
+05:00 : Bowel/bladder elimination
 06:00 : tongue scraping, teeth cleaning and oil pulling
 
 

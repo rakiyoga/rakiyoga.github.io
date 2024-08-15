@@ -1,7 +1,7 @@
 ---
 layout: page
-title: privacy policy
-subtitle: privacy
+title: Privacy
+subtitle: policy
 ---
 
 **cookie settings**

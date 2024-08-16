@@ -26,5 +26,4 @@ SMS / telephone: +49(0)17662233035
 
 We look forward to getting to know you and working together on your health.
 
-{{ content }}
 {% include contact-form.html %}

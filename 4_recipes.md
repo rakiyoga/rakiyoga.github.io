@@ -3,19 +3,17 @@ layout: page
 title: Ayurvedic Recipes for Healing
 subtitle: Seasonal recipe to heal your body and soul
 ---
-Embrace the wisdom of Ayurveda and nourish your body, mind, and soul with these delicious and healing recipes. Whether you're looking to boost your immunity, balance your doshas, or simply savor the flavors of the season, these Ayurvedic dishes will leave you feeling rejuvenated and in harmony with nature.
+Embrace the wisdom of Ayurveda and nourish your body, mind, and soul with these delicious and healing recipes. Whether you're looking to boost your immunity, balance your doshas, or simply savor the flavors of the season, these Ayurvedic dishes will leave you feeling rejuvenated and in harmony with nature. 
 
 Ayurvedic Recipes	Incorporate 6 tastes to satisfy senses and promote health:
-Sweet (Madhura), Sour (Amla), Salty (Lavana), Pungent (Katu), Bitter (Tikta), Astringent (Kashaya)
+Sweet (Madhura), Sour (Amlā), Salty (Lavana), Pungent (Katu), Bitter (Tikta), Astringent (Kashaya)
 ![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/94da587a-63a2-427d-be87-1380d09eaeb8)
 
-**Seasonal Eating** : Eat local seasonal foods to maintain balance with nature's cycles, focusing on energetic properties and interaction with body constitution, with certain foods recommended to pacify aggravated doshas.
 
-**Immune-Boosting** :	Spark digestive fire (agni) for immunity.
+**Spices as a Catalyst** : Use herbs and spices to catalyze nutrients, improve bioavailability, and provide anti-inflammatory and immune-enhancing effects. Incorporating spices as per your per food, not only elevates flavor but also maximizes health benefits. Cooking with spices enhances agni(digestive fire), which is essential for strong immunity.
 
-**Spices as a Catalyst** : Use herbs and spices to catalyze nutrients, improve bioavailability, and provide anti-inflammatory and immune-enhancing effects.
+**Dosha Balancing** : Understanding your unique dosha constitution allows for an individualized dietary approach. Tailoring your diet to balance vata, pitta, and kapha can promote optimal health and well-being. Eating seasonal produce aligns your diet with nature’s cycles, promoting balance and well-being. 
 
-**Dosha Balancing** : Adopt an individualized approach based on unique dosha constitution.
 
 ---
 
@@ -45,7 +43,7 @@ They are ideal for breakfast from late spring to summer's end, especially for Pi
 
 <details>
 
-<summary style="font-weight:bold;">Bärlauch Pesto</summary>
+<summary style="font-weight:bold;">Wild garlic(Bärlauch) Pesto</summary>
 
 Ayurveda aligns its new year with the arrival of a new season, typically spring. During this time, the plants that naturally emerge help to reduce the accumulated Kapha from the previous winter season.
 A prime example of such a spring plant is wild garlic, also known as Bärlauch or Wunderlauch (Allium ursinum & Allium paradoxum). To make a delicious wild garlic pesto, combine 200g of the fresh buds with 50ml of pomegranate vinegar, 200g of roasted almond nuts, and 500ml of olive oil.
@@ -55,4 +53,5 @@ This pesto can be stored for up to 3 years, provided no water droplets get insid
 
 </details>
 
-Further recipe being updated.
+
+Additional recipes are currently being updated!

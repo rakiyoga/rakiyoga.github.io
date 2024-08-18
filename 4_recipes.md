@@ -6,7 +6,7 @@ subtitle: Seasonal recipe to heal your body and soul
 Embrace the wisdom of Ayurveda and nourish your body, mind, and soul with these delicious and healing recipes. Whether you're looking to boost your immunity, balance your doshas, or simply savor the flavors of the season, these Ayurvedic dishes will leave you feeling rejuvenated and in harmony with nature. 
 
 Ayurvedic Recipes	Incorporate 6 tastes to satisfy senses and promote health:
-Sweet (Madhura), Sour (Amla), Salty (Lavana), Pungent (Katu), Bitter (Tikta), Astringent (Kashaya)
+Sweet (Madhura), Sour (Amlā), Salty (Lavana), Pungent (Katu), Bitter (Tikta), Astringent (Kashaya)
 ![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/94da587a-63a2-427d-be87-1380d09eaeb8)
 
 

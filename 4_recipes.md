@@ -43,7 +43,7 @@ They are ideal for breakfast from late spring to summer's end, especially for Pi
 
 <details>
 
-<summary style="font-weight:bold;">Bärlauch Pesto</summary>
+<summary style="font-weight:bold;">Wild garlic(Bärlauch) Pesto</summary>
 
 Ayurveda aligns its new year with the arrival of a new season, typically spring. During this time, the plants that naturally emerge help to reduce the accumulated Kapha from the previous winter season.
 A prime example of such a spring plant is wild garlic, also known as Bärlauch or Wunderlauch (Allium ursinum & Allium paradoxum). To make a delicious wild garlic pesto, combine 200g of the fresh buds with 50ml of pomegranate vinegar, 200g of roasted almond nuts, and 500ml of olive oil.

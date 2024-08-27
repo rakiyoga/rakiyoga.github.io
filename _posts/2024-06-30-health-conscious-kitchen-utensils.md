@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Which cooking utensils are healthier option?
-subtitle: Vessels for cooking and serving
 tags: [vessels, copper, ayurvedic cooking, iron, clay, nutrients]
 author: Raki Yoga
 ---

@@ -16,29 +16,29 @@ Here is a comprehensive table listing some examples of Viruddha Ahara (incompati
 | | potato + milk	            | otato has an astringent rasa, while milk is sweet; their opposite qualities cause digestive issues|
 | |meat protein + milk | Meat is heating while milk is cooling, disturbing Agni and producing toxins|
 | |eggs + cheese| Eggs and cheese both have a pungent Vipaka, creating excess heat and potential inflammation in the gut| 
-| **Virya Viruddha **|	Hot milk with sour fruits|	Milk is cooling, while sour fruits are hot in potency, causing curdling and indigestion|
+| **Virya Viruddha**|	Hot milk with sour fruits|	Milk is cooling, while sour fruits are hot in potency, causing curdling and indigestion|
 ||Lentils with milk|	Lentils have warm Virya, while milk is cooling, impacting Agni and producing toxins|
 ||Lemon with tomato|	Lemon has a cooling Virya, while tomato is warm, disturbing digestion and creating Ama|
 ||Lemon with cucumber|	Lemon has a sour Vipaka, and cucumber has a sweet Vipaka, leading to digestive disruption|
-| **Vipaka Viruddha **|	Milk and salt	Milk has a sweet post-digestive effect (Vipaka), while salt has a salty Vipaka, causing digestive imbalance|
+| **Vipaka Viruddha**|	Milk and salt	Milk has a sweet post-digestive effect (Vipaka), while salt has a salty Vipaka, causing digestive imbalance|
 ||Ice cream with mango|	Both have a sour Vipaka, leading to fermentation and gut irritation|
-| **Samskara Viruddha **|	Heating honey above 40°C (104°F)|	Heating honey changes its molecular structure, making it toxic and difficult to digest|
+| **Samskara Viruddha**|	Heating honey above 40°C (104°F)|	Heating honey changes its molecular structure, making it toxic and difficult to digest|
 ||Cooking honey|	Cooked honey digests slowly and becomes toxic, adhering to mucous membranes and clogging channels|
 ||Honey and ghee in equal quantities	This combination creates a toxic effect in the body|
-| **Samyoga Viruddha **|	Fruit with yogurt|	Combining fruits (especially sour) with dairy can create toxins (Ama) and lead to digestive issues|
+| **Samyoga Viruddha**|	Fruit with yogurt|	Combining fruits (especially sour) with dairy can create toxins (Ama) and lead to digestive issues|
 ||Fruit with other foods|	Fruit should be eaten separately or before other foods due to its quick digestion; eating it with heavier foods can cause fermentation|
 ||Grains, cereals, and pulses with acidic items|	Grains have a sweet Vipaka, while acidic fruits have a sour Vipaka, causing digestive disruption|
-| **Prakriti Viruddha **|	Spicy food for Pitta person|	Spicy foods increase Pitta, aggravating heat-related conditions in individuals with a high Pitta constitution|
-| **Desha Viruddha **	|Cold foods in a cold climate|	Consuming cold foods in a cold environment can aggravate Vata and Kapha, leading to digestive issues and imbalances|
-| **Kala Viruddha **	Heavy foods like red meat at night|	Heavy foods require strong digestive fire, which is weaker at night, leading to indigestion and toxin formation|
-| **Matra Viruddha **	|Overeating ANY food|	Eating in excess can overload the digestive system, leading to the production of toxins (Ama)|
-| **Krama Viruddha **	|Eating cold food right after hot food	|This can confuse the digestive fire, leading to indigestion and improper metabolism|
+| **Prakriti Viruddha**|	Spicy food for Pitta person|	Spicy foods increase Pitta, aggravating heat-related conditions in individuals with a high Pitta constitution|
+| **Desha Viruddha**	|Cold foods in a cold climate|	Consuming cold foods in a cold environment can aggravate Vata and Kapha, leading to digestive issues and imbalances|
+| **Kala Viruddha**	Heavy foods like red meat at night|	Heavy foods require strong digestive fire, which is weaker at night, leading to indigestion and toxin formation|
+| **Matra Viruddha**	|Overeating ANY food|	Eating in excess can overload the digestive system, leading to the production of toxins (Ama)|
+| **Krama Viruddha**	|Eating cold food right after hot food	|This can confuse the digestive fire, leading to indigestion and improper metabolism|
 ||Drinking cold water directly after or during a meal|	Cold water impacts digestive enzymes, leading to incomplete digestion and improper nutrient absorption|
-| **Parihara Viruddha **|	Eating incompatible foods when on certain herbal medications|	Certain foods can interfere with the efficacy of Ayurvedic medications, causing adverse effects or reduced potency|
-| **Upachara Viruddha **|	Cold water immediately after hot tea or coffee|	Consuming cold water after hot beverages can shock the digestive system, disturbing Agni and leading to poor digestion|
+| **Parihara Viruddha**|	Eating incompatible foods when on certain herbal medications|	Certain foods can interfere with the efficacy of Ayurvedic medications, causing adverse effects or reduced potency|
+| **Upachara Viruddha**|	Cold water immediately after hot tea or coffee|	Consuming cold water after hot beverages can shock the digestive system, disturbing Agni and leading to poor digestion|
 || rinking cold milk|	Cold milk can cause indigestion; milk should be taken warm|
-| **Paka Viruddha **|	Cooking with ghee and honey in equal quantities	|Equal quantities of ghee and honey create a toxic effect in the body|
-| **Hriday Viruddha **|	Bitter foods combined with milk	|This combination is unpleasant to taste and may be disagreeable to the heart, causing nausea or discomfort|
-| **Sanyoga Viruddha **|	Banana with milk|	This combination can diminish digestive fire (Agni), change intestinal flora, produce toxins, and cause respiratory issues|
+| **Paka Viruddha**|	Cooking with ghee and honey in equal quantities	|Equal quantities of ghee and honey create a toxic effect in the body|
+| **Hriday Viruddha**|	Bitter foods combined with milk	|This combination is unpleasant to taste and may be disagreeable to the heart, causing nausea or discomfort|
+| **Sanyoga Viruddha**|	Banana with milk|	This combination can diminish digestive fire (Agni), change intestinal flora, produce toxins, and cause respiratory issues|
 ||Fruits with potatoes or other starchy foods|	Fruits digest quickly, while starches take longer, causing improper digestion of sugars|
 ||Melons with grains|	Melons digest quickly, while grains take longer; this combination can upset the stomach|

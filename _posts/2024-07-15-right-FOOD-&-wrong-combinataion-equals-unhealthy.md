@@ -30,7 +30,7 @@ Here is a comprehensive table listing some examples of Viruddha Ahara (incompati
 ||Grains, cereals, and pulses with acidic items|	Grains have a sweet Vipaka, while acidic fruits have a sour Vipaka, causing digestive disruption|
 | **Prakriti Viruddha**|	Spicy food for Pitta person|	Spicy foods increase Pitta, aggravating heat-related conditions in individuals with a high Pitta constitution|
 | **Desha Viruddha**	|Cold foods in a cold climate|	Consuming cold foods in a cold environment can aggravate Vata and Kapha, leading to digestive issues and imbalances|
-| **Kala Viruddha**	Heavy foods like red meat at night|	Heavy foods require strong digestive fire, which is weaker at night, leading to indigestion and toxin formation|
+| **Kala Viruddha**	|Heavy foods like red meat at night|	Heavy foods require strong digestive fire, which is weaker at night, leading to indigestion and toxin formation|
 | **Matra Viruddha**	|Overeating ANY food|	Eating in excess can overload the digestive system, leading to the production of toxins (Ama)|
 | **Krama Viruddha**	|Eating cold food right after hot food	|This can confuse the digestive fire, leading to indigestion and improper metabolism|
 ||Drinking cold water directly after or during a meal|	Cold water impacts digestive enzymes, leading to incomplete digestion and improper nutrient absorption|

@@ -16,7 +16,6 @@ Here is a comprehensive table listing some examples of Viruddha Ahara (incompati
 | | potato + milk	            | otato has an astringent rasa, while milk is sweet; their opposite qualities cause digestive issues|
 | |meat protein + milk | Meat is heating while milk is cooling, disturbing Agni and producing toxins|
 | |eggs + cheese| Eggs and cheese both have a pungent Vipaka, creating excess heat and potential inflammation in the gut| 
-
 | **Virya Viruddha **|	Hot milk with sour fruits|	Milk is cooling, while sour fruits are hot in potency, causing curdling and indigestion|
 ||Lentils with milk|	Lentils have warm Virya, while milk is cooling, impacting Agni and producing toxins|
 ||Lemon with tomato|	Lemon has a cooling Virya, while tomato is warm, disturbing digestion and creating Ama|

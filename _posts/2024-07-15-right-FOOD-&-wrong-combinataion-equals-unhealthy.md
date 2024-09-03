@@ -41,4 +41,4 @@ Here is a comprehensive table listing some examples of Viruddha Ahara (incompati
 ||Fruit with other foods|	Fruit should be eaten separately or before other foods due to its quick digestion; eating it with heavier foods can cause fermentation|
 ||Grains, cereals, and pulses with acidic items|	Grains have a sweet Vipaka, while acidic fruits have a sour Vipaka, causing digestive disruption|
 ||SMOOTHIE with water| Water can interfere with the digestion of vegetables/fruits and may lead to fermentation or gas production|
-|Melon with any fruits/foods|	Melons digest quickly and should not be combined with other foods as they can upset digestion and cause fermentation|
+||Melon with any fruits/foods|	Melons digest quickly and should not be combined with other foods as they can upset digestion and cause fermentation|

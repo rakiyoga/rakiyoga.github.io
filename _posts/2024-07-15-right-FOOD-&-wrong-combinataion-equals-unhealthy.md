@@ -24,10 +24,6 @@ Here is a comprehensive table listing some examples of Viruddha Ahara (incompati
 ||Ice cream with mango|	Both have a sour Vipaka, leading to fermentation and gut irritation|
 | **Samskara Viruddha**|	Heating honey above 40°C (104°F)|	Heating honey changes its molecular structure, making it toxic, difficult to digest, adhering to mucous membranes and clogging channels|
 ||Honey and ghee in equal quantities|	This combination creates a toxic effect in the body|
-| **Samyoga Viruddha**|	Fruit with yogurt|	Combining fruits (especially sour) with dairy can create toxins (Ama) and lead to digestive issues|
-||Fruit with other foods|	Fruit should be eaten separately or before other foods due to its quick digestion; eating it with heavier foods can cause fermentation|
-||Grains, cereals, and pulses with acidic items|	Grains have a sweet Vipaka, while acidic fruits have a sour Vipaka, causing digestive disruption|
-||SMOOTHIE with water| Water can interfere with the digestion of vegetables/fruits and may lead to fermentation or gas production|
 | **Prakriti Viruddha**|	Spicy food for Pitta person|	Spicy foods increase Pitta, aggravating heat-related conditions in individuals with a high Pitta constitution|
 | **Desha Viruddha**	|Cold foods in a cold climate|	Consuming cold foods in a cold environment can aggravate Vata and Kapha, leading to digestive issues and imbalances|
 | **Kala Viruddha**	|Heavy foods like red meat at night|	Heavy foods require strong digestive fire, which is weaker at night, leading to indigestion and toxin formation|
@@ -41,4 +37,8 @@ Here is a comprehensive table listing some examples of Viruddha Ahara (incompati
 | **Hriday Viruddha**|	Bitter foods combined with milk	|This combination is unpleasant to taste and may be disagreeable to the heart, causing nausea or discomfort|
 | **Sanyoga Viruddha**|	Banana with milk|	This combination can diminish digestive fire (Agni), change intestinal flora, produce toxins, and cause respiratory issues|
 ||Fruits with potatoes or other starchy foods|	Fruits digest quickly, while starches take longer, causing improper digestion of sugars|
-||Melons with grains|	Melons digest quickly, while grains take longer; this combination can upset the stomach|
+||	Fruit with yogurt|	Combining fruits (especially sour) with dairy can create toxins (Ama) and lead to digestive issues|
+||Fruit with other foods|	Fruit should be eaten separately or before other foods due to its quick digestion; eating it with heavier foods can cause fermentation|
+||Grains, cereals, and pulses with acidic items|	Grains have a sweet Vipaka, while acidic fruits have a sour Vipaka, causing digestive disruption|
+||SMOOTHIE with water| Water can interfere with the digestion of vegetables/fruits and may lead to fermentation or gas production|
+|Melon with any fruits/foods|	Melons digest quickly and should not be combined with other foods as they can upset digestion and cause fermentation|

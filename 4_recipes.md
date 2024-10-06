@@ -55,9 +55,7 @@ This pesto can be stored for up to 3 years, provided no water droplets get insid
 
 ---
 
----
-
-<details>
+</details>
 <summary style="font-weight:bold;">Raki-Flu-bomb decoction </summary>
 If you are not you ready to welcome a new guest inside your body, you can prepare yourself for any kind of flu, virus, bacteria with below recipe.
 

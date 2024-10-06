@@ -55,7 +55,7 @@ This pesto can be stored for up to 3 years, provided no water droplets get insid
 
 ---
 
-</details>
+<details>
 
 <summary style="font-weight:bold;">Raki-Flu-bomb decoction </summary>
 

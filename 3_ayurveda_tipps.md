@@ -29,7 +29,7 @@ As we delve deeper into Ayurvedic wisdom, we see how these elements combine to f
 
 Pancha Kosha: Unveiling the Layers of Self
 
-Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle than the last. Think of them as Russian nesting dolls, with each layer containing and influencing the others.
+Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle than the last.
 
 **Annamaya Kosha: The Physical Layer**
 This is our outermost layer – the physical body we can see and touch. It's called Annamaya because it's nourished by food (Anna). In Ayurveda, we focus on proper nutrition and exercise to keep this layer healthy.
@@ -46,7 +46,8 @@ This is our intellectual and intuitive layer. It's where we process information,
 **Anandamaya Kosha: The Bliss Layer**
 The innermost layer is pure bliss. It's our connection to universal consciousness and our true nature. Deep meditation and spiritual practices help us access this layer.
 
-Why Understanding Pancha Kosha Matters in Ayurveda
-In Ayurveda, we believe that true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
+![image](https://github.com/user-attachments/assets/7f8a9e1e-2795-4b19-82d7-8e9a9893e17f)
+
+In Ayurveda, true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
 
 

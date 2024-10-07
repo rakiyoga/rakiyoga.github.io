@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basics of Ayurveda
+Subtitle: Basics of Ayurveda
 
 ---
 

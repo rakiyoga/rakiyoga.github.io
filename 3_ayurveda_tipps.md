@@ -17,6 +17,7 @@ Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alle
 The following indicators suggest a state of good health:
 
 **Agni (अग्नि)**: Regular hunger and efficient digestion.
+
 **Mala (मल)**: Proper elimination of bodily wastes.
 **Nidra (निद्रा)**: Quality sleep and refreshed awakening.
 **Bala (बल)**: Natural strength and robust immunity.

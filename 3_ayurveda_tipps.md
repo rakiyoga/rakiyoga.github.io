@@ -19,16 +19,27 @@ The following indicators suggest a state of good health:
 **Agni (अग्नि)**: Regular hunger and efficient digestion.
 
 **Mala (मल)**: Proper elimination of bodily wastes.
+
 **Nidra (निद्रा)**: Quality sleep and refreshed awakening.
+
 **Bala (बल)**: Natural strength and robust immunity.
+
 **Manas Prasannata (मनः प्रसन्नता)**: Mental tranquility and contentment.
+
 **Ojas (ओजस्**): Stable energy levels throughout the day.
+
 **Dosha Samya (दोष साम्य)**: Balance of Vata, Pitta, and Kapha.
+
 **Dhatu Sarata (धातु सारता)**: Optimal functioning of tissues and waste products.
+
 **Indriya Prasannata (इन्द्रिय प्रसन्नता)**: Well-functioning senses and mental clarity.
+
 **Atma Bodha (आत्म बोध)**: Sense of spiritual well-being.
+
 **Ritu Satmya (ऋतु सात्म्य)**: Adaptability to seasonal changes.
+
 **Dinacharya (दिनचर्या)**: Following a healthy daily routine.
+
 **Sadvritta (सद्वृत्त)**: Practicing good conduct and social hygiene.
 
 </details>

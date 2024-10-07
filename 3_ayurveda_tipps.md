@@ -3,7 +3,10 @@ layout: page
 title: Basics of Ayurveda
 
 ---
-Ayurveda: Definition 
+
+<details>
+
+<summary style="font-weight:bold;">Ayurveda: Definition </summary> 
 
 Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
 
@@ -27,8 +30,15 @@ The following indicators suggest a state of good health:
 **Dinacharya (दिनचर्या)**: Following a healthy daily routine.
 **Sadvritta (सद्वृत्त)**: Practicing good conduct and social hygiene.
 
+</details>
 
-The Five Elements in Ayurveda
+---
+
+---
+
+<details>
+
+<summary style="font-weight:bold;">5 Elements in Ayurveda </summary>
 
 In the ancient Sanskrit texts of Ayurveda, particularly the Charaka Samhita and Sushruta Samhita, we find profound teachings about the Pancha Mahabhuta - the Five Great Elements. These elements - Akasha (Ether), Vayu (Air), Agni (Fire), Jala (Water), and Prithvi (Earth) - are not merely physical substances, but rather the fundamental principles that govern all of creation.
 
@@ -49,9 +59,16 @@ Prithvi provides structure and stability, associated with smell and solid tissue
 
 As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedic diagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless wisdom of ancient India.
 
+</details>
+
+---
 
 
-Pancha Kosha: Unveiling the Layers of Self
+---
+
+<details>
+
+<summary style="font-weight:bold;">Pancha Kosha: Unveiling the Layers of Self </summary>
 
 Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle than the last.
 
@@ -74,8 +91,16 @@ The innermost layer is pure bliss. It's our connection to universal consciousnes
 
 In Ayurveda, true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
 
+</details>
 
-3 Dosha
+---
+
+---
+
+<details>
+
+<summary style="font-weight:bold;">Three Dosha </summary>
+
 In Ayurveda, "dosha" refers to the three fundamental bodily humors: Vata, Pitta, and Kapha. These doshas govern the body's physiological and psychological functions, and their balance is crucial for maintaining health. The term "dosha" is derived from the Sanskrit word 'dus,' meaning 'to err,' implying a tendency to become imbalanced or faulty. In their balanced state, known as "prakrti," doshas support health and well-being. However, when imbalanced, or in their "vikrti" state, they can disrupt bodily tissues (dhatus) and lead to illness. Each dosha has distinct characteristics and influences different aspects of the body and mind, contributing to an individual's unique constitution.
 
 These doshas are not merely abstract concepts but dynamic forces that shape our individual constitutions. Let's explore each dosha in detail:
@@ -95,4 +120,7 @@ Kapha dosha provides structure and stability to the body. It is involved in buil
 Balancing the Doshas
 The key to health in Ayurveda lies in maintaining a balance of these doshas. When in equilibrium, they support vitality and well-being. However, imbalances can lead to dis-ease. 
 
+</details>
+
+---
 

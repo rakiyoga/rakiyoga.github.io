@@ -3,6 +3,30 @@ layout: page
 title: Basics of Ayurveda
 
 ---
+Ayurveda: Definition 
+
+Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
+
+स्वस्थस्य स्वास्थ्य रक्षणम्, आतुरस्य विकार प्रशमनं च!
+Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!
+Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
+
+The following indicators suggest a state of good health:
+
+**Agni (अग्नि)**: Regular hunger and efficient digestion.
+**Mala (मल)**: Proper elimination of bodily wastes.
+**Nidra (निद्रा)**: Quality sleep and refreshed awakening.
+**Bala (बल)**: Natural strength and robust immunity.
+**Manas Prasannata (मनः प्रसन्नता)**: Mental tranquility and contentment.
+**Ojas (ओजस्**): Stable energy levels throughout the day.
+**Dosha Samya (दोष साम्य)**: Balance of Vata, Pitta, and Kapha.
+**Dhatu Sarata (धातु सारता)**: Optimal functioning of tissues and waste products.
+**Indriya Prasannata (इन्द्रिय प्रसन्नता)**: Well-functioning senses and mental clarity.
+**Atma Bodha (आत्म बोध)**: Sense of spiritual well-being.
+**Ritu Satmya (ऋतु सात्म्य)**: Adaptability to seasonal changes.
+**Dinacharya (दिनचर्या)**: Following a healthy daily routine.
+**Sadvritta (सद्वृत्त)**: Practicing good conduct and social hygiene.
+
 
 The Five Elements in Ayurveda
 
@@ -49,5 +73,26 @@ The innermost layer is pure bliss. It's our connection to universal consciousnes
 ![image](https://github.com/user-attachments/assets/7f8a9e1e-2795-4b19-82d7-8e9a9893e17f)
 
 In Ayurveda, true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
+
+
+3 Dosha
+In Ayurveda, "dosha" refers to the three fundamental bodily humors: Vata, Pitta, and Kapha. These doshas govern the body's physiological and psychological functions, and their balance is crucial for maintaining health. The term "dosha" is derived from the Sanskrit word 'dus,' meaning 'to err,' implying a tendency to become imbalanced or faulty. In their balanced state, known as "prakrti," doshas support health and well-being. However, when imbalanced, or in their "vikrti" state, they can disrupt bodily tissues (dhatus) and lead to illness. Each dosha has distinct characteristics and influences different aspects of the body and mind, contributing to an individual's unique constitution.
+
+These doshas are not merely abstract concepts but dynamic forces that shape our individual constitutions. Let's explore each dosha in detail:
+
+**Vata: The Energy of Movement**
+Vata embodies the elements of air and ether.
+Vata is responsible for all movement, motion, and flow throughout the body (both gross and subtle body). It governs all bodily activities, ensuring that processes such as circulation, respiration, and nerve impulses function smoothly.
+
+**Pitta: The Energy of Transformation**
+Pitta represents fire and water elements. 
+Pitta dosha is associated with metabolism at every level of the body. It governs all transformations, including digestion, absorption, and assimilation, at the organ, tissue, and cellular levels.
+
+**Kapha: The Energy of Structure**
+Kapha combines earth and water elements. 
+Kapha dosha provides structure and stability to the body. It is involved in building, maintenance, and repair processes, ensuring that every cell, tissue, and organ system is well-structured and supported.
+
+Balancing the Doshas
+The key to health in Ayurveda lies in maintaining a balance of these doshas. When in equilibrium, they support vitality and well-being. However, imbalances can lead to dis-ease. 
 
 

@@ -11,7 +11,9 @@ Subtitle: Fundamentals of Ayurveda
 Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
 
 स्वस्थस्य स्वास्थ्य रक्षणम्, आतुरस्य विकार प्रशमनं च!
+
 Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!
+
 Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
 
 The following indicators suggest a state of good health:

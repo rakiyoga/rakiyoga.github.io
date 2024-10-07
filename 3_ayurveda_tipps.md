@@ -34,8 +34,6 @@ The following indicators suggest a state of good health:
 
 ---
 
----
-
 <details>
 
 <summary style="font-weight:bold;">5 Elements in Ayurveda </summary>
@@ -60,9 +58,6 @@ Prithvi provides structure and stability, associated with smell and solid tissue
 As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedic diagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless wisdom of ancient India.
 
 </details>
-
----
-
 
 ---
 
@@ -92,8 +87,6 @@ The innermost layer is pure bliss. It's our connection to universal consciousnes
 In Ayurveda, true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
 
 </details>
-
----
 
 ---
 

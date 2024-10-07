@@ -1,7 +1,9 @@
 ---
 layout: page
+title: Ayurveda Recipes
 subtitle: Seasonal ayurvedic recipes to heal your body and soul
 ---
+
 Embrace the wisdom of Ayurveda and nourish your body, mind, and soul with these delicious and healing recipes. Whether you're looking to boost your immunity, balance your doshas, or simply savor the flavors of the season, these Ayurvedic dishes will leave you feeling rejuvenated and in harmony with nature. 
 
 Ayurvedic Recipes	Incorporate 6 tastes to satisfy senses and promote health:
@@ -59,8 +61,8 @@ This pesto can be stored for up to 3 years, provided no water droplets get insid
 <summary style="font-weight:bold;">Raki-Flu-bomb decoction </summary>
 
 Recipe for any kind of flu, virus, bacteria with below recipe. 
+![image](https://github.com/user-attachments/assets/a4414994-1f32-4302-9c2f-daf6ddf2a0f8)
 
-![image](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/c33a6756-2084-4753-bd4a-e36a414bf179)
 
 </details>
 

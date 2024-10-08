@@ -32,6 +32,6 @@ In Depth course on Cancer, heart disease and diabetes:
 ![in depth ayurveda certificate](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/0f16785a-49a0-4332-a825-dedeee7b5c46)
 
 Foundation course on Cancer, heart disease and diabetes:
-<img width="495" alt="CErtificates basic" src="https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/81ae6cb0-b722-490d-a6ac-3329b2615586">
+<img width="495" alt="Certificates basic" src="https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/81ae6cb0-b722-490d-a6ac-3329b2615586">
 
 

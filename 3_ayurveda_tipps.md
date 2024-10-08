@@ -27,34 +27,46 @@ Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alle
 
 <p>
 The following indicators suggest a state of good health:
-
-<b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.
-
-<b>Mala (मल)</b>: Proper elimination of bodily wastes.
-
-<b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.
-
-<b>Bala (बल)</b>: Natural strength and robust immunity.
-
-<b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.
-
-<b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.
-
-<b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.
-
-<b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.
-
-<b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.
-
-<b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.
-
-<b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.
-
-<b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.
-
-<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.
-
 </p>
+
+<p>
+<b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.</p>
+
+<p>
+<b>Mala (मल)</b>: Proper elimination of bodily wastes.</p>
+
+<p>
+<b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.</p>
+
+<p>
+<b>Bala (बल)</b>: Natural strength and robust immunity.</p>
+
+<p>
+<b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.</p>
+
+<p>
+<b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.</p>
+
+<p>
+<b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.</p>
+
+<p>
+<b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.</p>
+
+<p>
+<b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.</p>
+
+<p>
+<b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.</p>
+
+<p>
+<b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.</p>
+
+<p>
+<b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.</p>
+
+<p>
+<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.</p>
 
 </details>
 

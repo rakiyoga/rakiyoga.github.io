@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Ayurveda Tipps
 Subtitle: Fundamentals of Ayurveda
 
 ---
@@ -79,26 +80,40 @@ As we delve deeper into Ayurvedic wisdom, we see how these elements combine to f
 
 <summary style="font-weight:bold;">Pancha Kosha: Unveiling the Layers of Self </summary>
 
+<p>
 Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle than the last.
+</p>
 
-**Annamaya Kosha: The Physical Layer**
+<b>Annamaya Kosha: The Physical Layer</b>
+<p>
 This is our outermost layer – the physical body we can see and touch. It's called Annamaya because it's nourished by food (Anna). In Ayurveda, we focus on proper nutrition and exercise to keep this layer healthy.
+</p>
 
-**Pranamaya Kosha: The Energy Layer**
+<b>Pranamaya Kosha: The Energy Layer</b>
+<p>
 Just beneath our physical body lies our energy body. This layer is all about the life force, or Prana, that animates us. Pranayama (breathing exercises) and yoga asanas work directly with this kosha.
+</p>
 
-**Manomaya Kosha: The Mental Layer**
+<b>Manomaya Kosha: The Mental Layer</b>
+<p>
 Our thoughts, emotions, and sensory experiences make up this layer. It's where our likes, dislikes, and daily mental chatter reside. Meditation and mindfulness practices can help balance this kosha.
+</p>
 
-**Vijnanamaya Kosha: The Wisdom Layer**
+<b>Vijnanamaya Kosha: The Wisdom Layer</b>
+<p>
 This is our intellectual and intuitive layer. It's where we process information, make decisions, and tap into our higher wisdom. Studying spiritual texts and practicing self-reflection nurtures this kosha.
+</p>
 
-**Anandamaya Kosha: The Bliss Layer**
+<b>Anandamaya Kosha: The Bliss Layer</b>
+<p>
 The innermost layer is pure bliss. It's our connection to universal consciousness and our true nature. Deep meditation and spiritual practices help us access this layer.
+</p>
 
-![image](https://github.com/user-attachments/assets/7f8a9e1e-2795-4b19-82d7-8e9a9893e17f)
+<img src="https://github.com/user-attachments/assets/7f8a9e1e-2795-4b19-82d7-8e9a9893e17f" alt="Pancha Kosha" class="pic">
 
+<p>
 In Ayurveda, true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
+</p>
 
 </details>
 

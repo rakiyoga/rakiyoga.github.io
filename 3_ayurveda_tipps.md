@@ -10,63 +10,66 @@ Subtitle: Fundamentals of Ayurveda
 <summary style="font-weight:bold;">Ayurveda: Definition </summary> 
 
 <p>
-Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
+    <p>
+    Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
+    </p>
+
+    <p>
+    स्वस्थस्य स्वास्थ्य रक्षणम्, आतुरस्य विकार प्रशमनं च!
+    </p>
+
+    <p>
+    Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!
+    </p>
+
+    <p>
+    Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
+    </p>
+
+    <p>
+    The following indicators suggest a state of good health:
+    </p>
+
+    <p>
+    <b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.</p>
+
+    <p>
+    <b>Mala (मल)</b>: Proper elimination of bodily wastes.</p>
+
+    <p>
+    <b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.</p>
+
+    <p>
+    <b>Bala (बल)</b>: Natural strength and robust immunity.</p>
+
+    <p>
+    <b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.</p>
+
+    <p>
+    <b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.</p>
+
+    <p>
+    <b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.</p>
+
+    <p>
+    <b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.</p>
+
+    <p>
+    <b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.</p>
+
+    <p>
+    <b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.</p>
+
+    <p>
+    <b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.</p>
+
+    <p>
+    <b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.</p>
+
+    <p>
+    <b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.</p>
+
 </p>
-
-<p>
-स्वस्थस्य स्वास्थ्य रक्षणम्, आतुरस्य विकार प्रशमनं च!
-</p>
-
-<p>
-Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!
-</p>
-
-<p>
-Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
-</p>
-
-<p>
-The following indicators suggest a state of good health:
-</p>
-
-<p>
-<b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.</p>
-
-<p>
-<b>Mala (मल)</b>: Proper elimination of bodily wastes.</p>
-
-<p>
-<b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.</p>
-
-<p>
-<b>Bala (बल)</b>: Natural strength and robust immunity.</p>
-
-<p>
-<b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.</p>
-
-<p>
-<b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.</p>
-
-<p>
-<b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.</p>
-
-<p>
-<b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.</p>
-
-<p>
-<b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.</p>
-
-<p>
-<b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.</p>
-
-<p>
-<b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.</p>
-
-<p>
-<b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.</p>
-
-<p>
-<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.</p>
 
 </details>
 

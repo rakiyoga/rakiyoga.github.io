@@ -5,9 +5,7 @@ Subtitle: Fundamentals of Ayurveda
 
 ---
 
-<style type="text/css">
- p {margin-bottom: -1em;  margin-top: 0em;} 
-</style>
+<style type="text/css"> p {margin:0; padding-top:0;} </style>
 
 <details>
 

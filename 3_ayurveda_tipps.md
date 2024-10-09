@@ -5,8 +5,6 @@ Subtitle: Fundamentals of Ayurveda
 
 ---
 
-<style type="text/css"> p {margin:0; padding-top:0;} </style>
-
 <details>
 
 <summary style="font-weight:bold;">Ayurveda: Definition </summary> 

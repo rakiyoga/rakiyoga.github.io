@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Fundamentals of Ayurveda
 Subtitle: Fundamentals of Ayurveda
 
 ---
@@ -34,8 +33,10 @@ The following indicators suggest a state of good health:
 <b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.<br>
 <b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.<br>
 <b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.<br>
-<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.<br>
+<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.
 
+</p>
+  
 </details>
 
 ---

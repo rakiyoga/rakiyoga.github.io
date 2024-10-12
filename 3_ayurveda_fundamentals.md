@@ -49,32 +49,33 @@ In the ancient Sanskrit texts of Ayurveda, particularly the Charaka Samhita and 
 </p>
 
 <b>Akasha: The Essence of Space (Ether)</b>
-<p>
+<br>
 In Ayurveda, Akasha represents space and is associated with the ears and sound. Modern medicine recognizes the importance of cellular spaces and interstitial fluids in maintaining homeostasis. The concept of Akasha may relate to the extracellular matrix and its role in cell signaling and tissue function. The Taittiriya Upanishad speaks of Akasha as the primordial element from which all others emerge. It is described as subtle, all-pervading, and the container for all existence. 
 </p>
 
 <b>Vayu: The Breath of Life (Air)</b>
 <br>
 Vayu governs movement and is linked to the skin and touch. Prana, the vital life force, is a manifestation of Vayu. In Ayurvedic physiology, Vayu governs all bodily movements, from the beating of our hearts to the flow of our thoughts. This element's properties align with our current understanding of the nervous system and cellular respiration. The movement of nerve impulses and the exchange of gases in the lungs exemplify Vayu's principles in action.
-</p>
+<br>
 
 <b>Agni: The Transformative Fire</b>
 <br>
 Agni is the element of transformation, associated with vision and metabolism. The Charaka Samhita emphasizes its role in digestion, metabolism, and the conversion of food into bodily tissues. In modern physiology, we can draw parallels between Agni and the body's metabolic processes, including enzyme function and the electron transport chain in mitochondria.
-</p>
+<br>
 
 <b>Jala: The Flowing Waters</b>
 <br>
 Jala represents cohesion and fluidity, connected to taste and bodily fluids. This concept aligns with our understanding of blood plasma, lymph, and the importance of hydration in maintaining cellular function and overall health.
-</p>
+<br>
 
 <b>Prithvi: The Stable Earth</b>
 <br>
 Prithvi provides structure and stability, associated with smell and solid tissues. In contemporary terms, we can relate this to the musculoskeletal system, connective tissues, and the body's structural components.
-</p>
+<br>
+
 <br>
 As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedic diagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless wisdom of ancient India.
-</p>
+<br>
 
 </details>
 
@@ -86,27 +87,27 @@ As we delve deeper into Ayurvedic wisdom, we see how these elements combine to f
 
 <p>
 Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle than the last.
-</p>
+<br>
 
 <b>Annamaya Kosha: The Physical Layer</b>
 <br>
 This is our outermost layer – the physical body we can see and touch. It's called Annamaya because it's nourished by food (Anna). In Ayurveda, we focus on proper nutrition and exercise to keep this layer healthy.
-</p>
+<br>
 
 <b>Pranamaya Kosha: The Energy Layer</b>
 <br>
 Just beneath our physical body lies our energy body. This layer is all about the life force, or Prana, that animates us. Pranayama (breathing exercises) and yoga asanas work directly with this kosha.
-</p>
+<br>
 
 <b>Manomaya Kosha: The Mental Layer</b>
 <br>
 Our thoughts, emotions, and sensory experiences make up this layer. It's where our likes, dislikes, and daily mental chatter reside. Meditation and mindfulness practices can help balance this kosha.
-</p>
+<br>
 
 <b>Vijnanamaya Kosha: The Wisdom Layer</b>
 <br>
 This is our intellectual and intuitive layer. It's where we process information, make decisions, and tap into our higher wisdom. Studying spiritual texts and practicing self-reflection nurtures this kosha.
-</p>
+<br>
 
 <b>Anandamaya Kosha: The Bliss Layer</b>
 <br>
@@ -139,13 +140,13 @@ These doshas are not merely abstract concepts but dynamic forces that shape our 
 <br>
 Vata embodies the elements of air and ether.
 Vata is responsible for all movement, motion, and flow throughout the body (both gross and subtle body). It governs all bodily activities, ensuring that processes such as circulation, respiration, and nerve impulses function smoothly.
-</p>
+<br>
 
 <b>Pitta: The Energy of Transformation</b>
 <br>
 Pitta represents fire and water elements. 
 Pitta dosha is associated with metabolism at every level of the body. It governs all transformations, including digestion, absorption, and assimilation, at the organ, tissue, and cellular levels.
-</p>
+<br>
 
 <b>Kapha: The Energy of Structure</b>
 <br>
@@ -155,7 +156,7 @@ Kapha dosha provides structure and stability to the body. It is involved in buil
 
 <p>
 The key to health in Ayurveda lies in maintaining a balance of these doshas. When in equilibrium, they support vitality and well-being. However, imbalances can lead to dis-ease. 
-</p>
+<br>
 
 </details>
 

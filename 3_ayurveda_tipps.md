@@ -248,13 +248,43 @@ The objective is not to eliminate any Guna but to achieve a harmonious balance. 
 <p>
 
 <details>
-<summary>Click to expand</summary>
+<summary>Click to expand the table</summary>
 
-| **Food Type**   | **Sattvic**                                      | **Rajasic**                                     | **Tamasic**                     |
-|------------------|--------------------------------------------------|------------------------------------------------|----------------------------------|
-| **Fruits**       | Mango, Pomegranate, Coconut, Figs, Peaches, Berries (e.g., blueberries, strawberries), Oranges, Apples, Grapes | Sour Fruits (e.g., lemons), Bananas, Guava, Cherries, Pineapple, Kiwi | Avocado, Watermelon, Plums, Apricots, Dried Fruits (e.g., raisins) |
-| **Grains**       | Rice, Tapioca, Blue Corn, Quinoa, Barley, Oats  | Millet, Corn, Buckwheat, Rye                   | Wheat, Brown Rice                |
-| **Vegetables**   | Sweet Potato, Lettuce, Parsley, Sprouts, Yellow Squash, Carrots, Beets, Zucchini, Pumpkin | Potato, Cauliflower, Broccoli, Spinach, Pickles, Bell Peppers | Mushrooms, Garlic, Onions       |
-| **Beans**        | Mung Beans, Yellow Lentils (Moong Dal), Kidney Beans (Rajma), Lima Beans, Chickpeas | Red Lentils (Masoor Dal), Toor Dal (Pigeon Peas), Adzuki Beans | Urad Dal (Black Gram), Black Beans, Pinto Beans |
+<table>
+    <thead>
+        <tr>
+            <th>Food Type</th>
+            <th>Sattvic</th>
+            <th>Rajasic</th>
+            <th>Tamasic</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fruits</td>
+            <td>Mango, Pomegranate, Coconut, Figs, Peaches, Berries (e.g., blueberries, strawberries), Oranges, Apples, Grapes</td>
+            <td>Sour Fruits (e.g., lemons), Bananas, Guava, Cherries, Pineapple, Kiwi</td>
+            <td>Avocado, Watermelon, Plums, Apricots, Dried Fruits (e.g., raisins)</td>
+        </tr>
+        <tr>
+            <td>Grains</td>
+            <td>Rice, Tapioca, Blue Corn, Quinoa, Barley, Oats</td>
+            <td>Millet, Corn, Buckwheat, Rye</td>
+            <td>Wheat, Brown Rice</td>
+        </tr>
+        <tr>
+            <td>Vegetables</td>
+            <td>Sweet Potato, Lettuce, Parsley, Sprouts, Yellow Squash, Carrots, Beets, Zucchini, Pumpkin</td>
+            <td>Potato, Cauliflower, Broccoli, Spinach, Pickles, Bell Peppers</td>
+            <td>Mushrooms, Garlic, Onions</td>
+        </tr>
+        <tr>
+            <td>Beans</td>
+            <td>Mung Beans, Yellow Lentils (Moong Dal), Kidney Beans (Rajma), Lima Beans, Chickpeas</td>
+            <td>Red Lentils (Masoor Dal), Toor Dal (Pigeon Peas), Adzuki Beans</td>
+            <td>Urad Dal (Black Gram), Black Beans, Pinto Beans</td>
+        </tr>
+    </tbody>
+</table>
 
 </details>

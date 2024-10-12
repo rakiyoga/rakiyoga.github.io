@@ -207,7 +207,9 @@ Ahara (food) is a key principle in Ayurveda, encompassing not just food but also
 Nature's Fundamental Qualities. In Sanskrit, "Guna" refers to the qualities that define all matter and energy. Ayurveda identifies three primary Gunas:
 <p>
 Sattva: Clarity, balance, harmony, and well-being.
+<p>
 Rajas: Activity, change, passion, and stimulation.
+<p>
 Tamas: Inertia, heaviness, and resistance to change.
 <p>
 Each Guna exists in varying proportions within nature and ourselves. While all are essential, an excess of any can be harmful. For example, moderate Tamas is necessary for rest, but too much leads to lethargy. Rajas drives motivation but can cause anxiety in excess. Sattva fosters clarity and peace but must be balanced with the other Gunas for practical living.
@@ -216,24 +218,37 @@ Each Guna exists in varying proportions within nature and ourselves. While all a
 Ayurveda posits that food affects both body and mind.
 <p>
 Sattvic Foods: Pure and nourishing; promote clarity and calmness (e.g., fresh, organic foods).
+<p>
 Rajasic Foods: Stimulating; can induce restlessness (e.g., spicy or sour foods).
+<p>
 Tamasic Foods: Heavy and dull; may lead to lethargy (e.g., stale or over-processed foods).
 <p>
   
 <b>Eight Principles of eating:</b>
 Ayurveda outlines eight principles that govern healthy eating practices:
-Prakriti: The nature of the food.
-Karana: The processing method of the food.
-Samyoga: Proper compatibility of food combinations.
-Rashi: Quantity of food consumed.
-Kala: Timing of food intake.
-Upayoga: The appropriate use of food.
-Samskara: The effects of cooking methods on food.
-Viruddha: Incompatibility in food combinations.
-
 <p>
+Prakriti: The nature of the food.
+<p>
+Karana: The processing method of the food.
+<p>
+Samyoga: Proper compatibility of food combinations.
+<p>
+Rashi: Quantity of food consumed.
+<p>
+Kala: Timing of food intake.
+<p>
+Upayoga: The appropriate use of food.
+<p>
+Samskara: The effects of cooking methods on food.
+<p>
+Viruddha: Incompatibility in food combinations.
+<p>
+
 The objective is not to eliminate any Guna but to achieve a harmonious balance. Increasing Sattva while moderating Rajas and Tamas is ideal for optimal health. By understanding these qualities, we can make informed dietary choices that enhance our well-being.
 <p>
+
+<details>
+<summary>Click to expand</summary>
 
 | **Food Type**   | **Sattvic**                                      | **Rajasic**                                     | **Tamasic**                     |
 |------------------|--------------------------------------------------|------------------------------------------------|----------------------------------|

@@ -207,7 +207,9 @@ Ahara (food) is a key principle in Ayurveda, encompassing not just food but also
 Nature's Fundamental Qualities. In Sanskrit, "Guna" refers to the qualities that define all matter and energy. Ayurveda identifies three primary Gunas:
 <p>
 Sattva: Clarity, balance, harmony, and well-being.
+<p>
 Rajas: Activity, change, passion, and stimulation.
+<p>
 Tamas: Inertia, heaviness, and resistance to change.
 <p>
 Each Guna exists in varying proportions within nature and ourselves. While all are essential, an excess of any can be harmful. For example, moderate Tamas is necessary for rest, but too much leads to lethargy. Rajas drives motivation but can cause anxiety in excess. Sattva fosters clarity and peace but must be balanced with the other Gunas for practical living.
@@ -216,30 +218,73 @@ Each Guna exists in varying proportions within nature and ourselves. While all a
 Ayurveda posits that food affects both body and mind.
 <p>
 Sattvic Foods: Pure and nourishing; promote clarity and calmness (e.g., fresh, organic foods).
+<p>
 Rajasic Foods: Stimulating; can induce restlessness (e.g., spicy or sour foods).
+<p>
 Tamasic Foods: Heavy and dull; may lead to lethargy (e.g., stale or over-processed foods).
 <p>
   
 <b>Eight Principles of eating:</b>
 Ayurveda outlines eight principles that govern healthy eating practices:
-Prakriti: The nature of the food.
-Karana: The processing method of the food.
-Samyoga: Proper compatibility of food combinations.
-Rashi: Quantity of food consumed.
-Kala: Timing of food intake.
-Upayoga: The appropriate use of food.
-Samskara: The effects of cooking methods on food.
-Viruddha: Incompatibility in food combinations.
-
 <p>
+Prakriti: The nature of the food.
+<p>
+Karana: The processing method of the food.
+<p>
+Samyoga: Proper compatibility of food combinations.
+<p>
+Rashi: Quantity of food consumed.
+<p>
+Kala: Timing of food intake.
+<p>
+Upayoga: The appropriate use of food.
+<p>
+Samskara: The effects of cooking methods on food.
+<p>
+Viruddha: Incompatibility in food combinations.
+<p>
+
 The objective is not to eliminate any Guna but to achieve a harmonious balance. Increasing Sattva while moderating Rajas and Tamas is ideal for optimal health. By understanding these qualities, we can make informed dietary choices that enhance our well-being.
 <p>
 
-| **Food Type**   | **Sattvic**                                      | **Rajasic**                                     | **Tamasic**                     |
-|------------------|--------------------------------------------------|------------------------------------------------|----------------------------------|
-| **Fruits**       | Mango, Pomegranate, Coconut, Figs, Peaches, Berries (e.g., blueberries, strawberries), Oranges, Apples, Grapes | Sour Fruits (e.g., lemons), Bananas, Guava, Cherries, Pineapple, Kiwi | Avocado, Watermelon, Plums, Apricots, Dried Fruits (e.g., raisins) |
-| **Grains**       | Rice, Tapioca, Blue Corn, Quinoa, Barley, Oats  | Millet, Corn, Buckwheat, Rye                   | Wheat, Brown Rice                |
-| **Vegetables**   | Sweet Potato, Lettuce, Parsley, Sprouts, Yellow Squash, Carrots, Beets, Zucchini, Pumpkin | Potato, Cauliflower, Broccoli, Spinach, Pickles, Bell Peppers | Mushrooms, Garlic, Onions       |
-| **Beans**        | Mung Beans, Yellow Lentils (Moong Dal), Kidney Beans (Rajma), Lima Beans, Chickpeas | Red Lentils (Masoor Dal), Toor Dal (Pigeon Peas), Adzuki Beans | Urad Dal (Black Gram), Black Beans, Pinto Beans |
+<details>
+<summary>Click to expand the table</summary>
+
+<table>
+    <thead>
+        <tr>
+            <th>Food Type</th>
+            <th>Sattvic</th>
+            <th>Rajasic</th>
+            <th>Tamasic</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fruits</td>
+            <td>Mango, Pomegranate, Coconut, Figs, Peaches, Berries (e.g., blueberries, strawberries), Oranges, Apples, Grapes</td>
+            <td>Sour Fruits (e.g., lemons), Bananas, Guava, Cherries, Pineapple, Kiwi</td>
+            <td>Avocado, Watermelon, Plums, Apricots, Dried Fruits (e.g., raisins)</td>
+        </tr>
+        <tr>
+            <td>Grains</td>
+            <td>Rice, Tapioca, Blue Corn, Quinoa, Barley, Oats</td>
+            <td>Millet, Corn, Buckwheat, Rye</td>
+            <td>Wheat, Brown Rice</td>
+        </tr>
+        <tr>
+            <td>Vegetables</td>
+            <td>Sweet Potato, Lettuce, Parsley, Sprouts, Yellow Squash, Carrots, Beets, Zucchini, Pumpkin</td>
+            <td>Potato, Cauliflower, Broccoli, Spinach, Pickles, Bell Peppers</td>
+            <td>Mushrooms, Garlic, Onions</td>
+        </tr>
+        <tr>
+            <td>Beans</td>
+            <td>Mung Beans, Yellow Lentils (Moong Dal), Kidney Beans (Rajma), Lima Beans, Chickpeas</td>
+            <td>Red Lentils (Masoor Dal), Toor Dal (Pigeon Peas), Adzuki Beans</td>
+            <td>Urad Dal (Black Gram), Black Beans, Pinto Beans</td>
+        </tr>
+    </tbody>
+</table>
 
 </details>

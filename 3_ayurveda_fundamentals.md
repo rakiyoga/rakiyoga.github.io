@@ -14,59 +14,27 @@ Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or k
 </p>
 
 <p>
-स्वस्थस्य स्वास्थ्य रक्षणम्, आतुरस्य विकार प्रशमनं च!
-</p>
-
-<p>
+स्वस्थस्य स्वास्थ्य रक्षणं, आतुरस्य विकार प्रशमनं। 
+<br>
 Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!
-</p>
-
-<p>
+<br>
 Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
-</p>
-
 <p>
 The following indicators suggest a state of good health:
-</p>
-
 <p>
-<b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.</p>
-
-<p>
-<b>Mala (मल)</b>: Proper elimination of bodily wastes.</p>
-
-<p>
-<b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.</p>
-
-<p>
-<b>Bala (बल)</b>: Natural strength and robust immunity.</p>
-
-<p>
-<b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.</p>
-
-<p>
-<b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.</p>
-
-<p>
-<b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.</p>
-
-<p>
-<b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.</p>
-
-<p>
-<b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.</p>
-
-<p>
-<b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.</p>
-
-<p>
-<b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.</p>
-
-<p>
-<b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.</p>
-
-<p>
-<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.</p>
+<b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.<br>
+<b>Mala (मल)</b>: Proper elimination of bodily wastes.<br>
+<b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.<br>
+<b>Bala (बल)</b>: Natural strength and robust immunity.<br>
+<b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.<br>
+<b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.<br>
+<b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.<br>
+<b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.<br>
+<b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.<br>
+<b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.<br>
+<b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.<br>
+<b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.<br>
+<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.<br>
 
 </details>
 
@@ -85,26 +53,25 @@ In Ayurveda, Akasha represents space and is associated with the ears and sound. 
 </p>
 
 <b>Vayu: The Breath of Life (Air)</b>
-<p>
+<br>
 Vayu governs movement and is linked to the skin and touch. Prana, the vital life force, is a manifestation of Vayu. In Ayurvedic physiology, Vayu governs all bodily movements, from the beating of our hearts to the flow of our thoughts. This element's properties align with our current understanding of the nervous system and cellular respiration. The movement of nerve impulses and the exchange of gases in the lungs exemplify Vayu's principles in action.
 </p>
 
 <b>Agni: The Transformative Fire</b>
-<p>
+<br>
 Agni is the element of transformation, associated with vision and metabolism. The Charaka Samhita emphasizes its role in digestion, metabolism, and the conversion of food into bodily tissues. In modern physiology, we can draw parallels between Agni and the body's metabolic processes, including enzyme function and the electron transport chain in mitochondria.
 </p>
 
 <b>Jala: The Flowing Waters</b>
-<p>
+<br>
 Jala represents cohesion and fluidity, connected to taste and bodily fluids. This concept aligns with our understanding of blood plasma, lymph, and the importance of hydration in maintaining cellular function and overall health.
 </p>
 
 <b>Prithvi: The Stable Earth</b>
-<p>
+<br>
 Prithvi provides structure and stability, associated with smell and solid tissues. In contemporary terms, we can relate this to the musculoskeletal system, connective tissues, and the body's structural components.
 </p>
-
-<p>
+<br>
 As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedic diagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless wisdom of ancient India.
 </p>
 
@@ -121,27 +88,27 @@ Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha
 </p>
 
 <b>Annamaya Kosha: The Physical Layer</b>
-<p>
+<br>
 This is our outermost layer – the physical body we can see and touch. It's called Annamaya because it's nourished by food (Anna). In Ayurveda, we focus on proper nutrition and exercise to keep this layer healthy.
 </p>
 
 <b>Pranamaya Kosha: The Energy Layer</b>
-<p>
+<br>
 Just beneath our physical body lies our energy body. This layer is all about the life force, or Prana, that animates us. Pranayama (breathing exercises) and yoga asanas work directly with this kosha.
 </p>
 
 <b>Manomaya Kosha: The Mental Layer</b>
-<p>
+<br>
 Our thoughts, emotions, and sensory experiences make up this layer. It's where our likes, dislikes, and daily mental chatter reside. Meditation and mindfulness practices can help balance this kosha.
 </p>
 
 <b>Vijnanamaya Kosha: The Wisdom Layer</b>
-<p>
+<br>
 This is our intellectual and intuitive layer. It's where we process information, make decisions, and tap into our higher wisdom. Studying spiritual texts and practicing self-reflection nurtures this kosha.
 </p>
 
 <b>Anandamaya Kosha: The Bliss Layer</b>
-<p>
+<br>
 The innermost layer is pure bliss. It's our connection to universal consciousness and our true nature. Deep meditation and spiritual practices help us access this layer.
 </p>
 
@@ -168,19 +135,19 @@ These doshas are not merely abstract concepts but dynamic forces that shape our 
 </p>
 
 <b>Vata: The Energy of Movement</b>
-<p>
+<br>
 Vata embodies the elements of air and ether.
 Vata is responsible for all movement, motion, and flow throughout the body (both gross and subtle body). It governs all bodily activities, ensuring that processes such as circulation, respiration, and nerve impulses function smoothly.
 </p>
 
 <b>Pitta: The Energy of Transformation</b>
-<p>
+<br>
 Pitta represents fire and water elements. 
 Pitta dosha is associated with metabolism at every level of the body. It governs all transformations, including digestion, absorption, and assimilation, at the organ, tissue, and cellular levels.
 </p>
 
 <b>Kapha: The Energy of Structure</b>
-<p>
+<br>
 Kapha combines earth and water elements. 
 Kapha dosha provides structure and stability to the body. It is involved in building, maintenance, and repair processes, ensuring that every cell, tissue, and organ system is well-structured and supported.
 </p>
@@ -195,7 +162,7 @@ The key to health in Ayurveda lies in maintaining a balance of these doshas. Whe
 
 <details>
 
-<summary style="font-weight:bold;"> Food qualities & mind connection </summary>
+<summary style="font-weight:bold;"> Food, qualities & mindfulness (Ahara & Gunas) </summary>
 
 <p>
 
@@ -203,38 +170,39 @@ Ahara (food) is a key principle in Ayurveda, encompassing not just food but also
 <p>
   
 <b>Three Gunas: </b>
-<p>
+<br>
 Nature's Fundamental Qualities. In Sanskrit, "Guna" refers to the qualities that define all matter and energy. Ayurveda identifies three primary Gunas:
 <p>
 <b>Sattva</b>: Clarity, balance, harmony, and well-being.
-<p>
+<br>
 <b>Rajas</b>: Activity, change, passion, and stimulation.
-<p>
+<br>
 <b>Tamas</b>: Inertia, heaviness, and resistance to change.
-<p>
+<br>
 Each Guna exists in varying proportions within nature and ourselves. While all are essential, an excess of any can be harmful. For example, moderate Tamas is necessary for rest, but too much leads to lethargy. Rajas drives motivation but can cause anxiety in excess. Sattva fosters clarity and peace but must be balanced with the other Gunas for practical living.
-<p>
+<br>
+  
 <b>The Mind-Food Connection in Ayurveda</b>
-Ayurveda posits that food affects both body and mind.
+As per Ayurveda, food affects both body and mind.
 <p>
 <b>Sattvic Foods</b>: Pure and nourishing; promote clarity and calmness (e.g., fresh, organic foods).
-<p>
+<br>
 <b>Rajasic Foods</b>: Stimulating; can induce restlessness (e.g., spicy or sour foods).
-<p>
+<br>
 <b>Tamasic Foods</b>: Heavy and dull; may lead to lethargy (e.g., stale or over-processed foods).
-<p>
+<br>
   
 <b>Eight Principles of Eating:</b><br>
 Ayurveda outlines eight principles that govern healthy eating practices:<br>
 <br>
-1. **Prakriti**: The nature of the food.<br>
-2. **Karana**: The processing method of the food.<br>
-3. **Samyoga**: Proper compatibility of food combinations.<br>
-4. **Rashi**: Quantity of food consumed.<br>
-5. **Kala**: Timing of food intake.<br>
-6. **Upayoga**: The appropriate use of food.<br>
-7. **Samskara**: The effects of cooking methods on food.<br>
-8. **Viruddha**: Incompatibility in food combinations.
+1. <b>Prakriti</b>: The nature of the food.<br>
+2. <b>Karana</b>: The processing method of the food.<br>
+3. <b>Samyoga</b>: Proper compatibility of food combinations.<br>
+4. <b>Rashi</b>: Quantity of food consumed.<br>
+5. <b>Kala</b>: Timing of food intake.<br>
+6. <b>Upayoga</b>: The appropriate use of food.<br>
+7. <b>Samskara</b>: The effects of cooking methods on food.<br>
+8. <b>Viruddha</b>: Incompatibility in food combinations.<br>
 
 The objective is not to eliminate any Guna but to achieve a harmonious balance. Increasing Sattva while moderating Rajas and Tamas is ideal for optimal health. By understanding these qualities, we can make informed dietary choices that enhance our well-being.
 <p>

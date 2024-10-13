@@ -36,6 +36,8 @@ Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alle
 
 </details>
 
+---
+
 <details>
 <summary style="font-weight:bold;">2. 5 Elements in Ayurveda</summary>
 
@@ -73,6 +75,8 @@ As we delve deeper into Ayurvedic wisdom, we see how these elements combine to f
 </p>
 
 </details>
+
+---
 
 <details>
 <summary style="font-weight:bold;">3. Pancha Kosha: 5 layers of self</summary>
@@ -114,6 +118,8 @@ In Ayurveda, true health and happiness come from balancing all these layers. Whe
 
 </details>
 
+---
+
 <details>
 <summary style="font-weight:bold;">4. Three Dosha</summary>
 
@@ -148,6 +154,8 @@ The key to health in Ayurveda lies in maintaining a balance of these doshas. Whe
 </p>
 
 </details>
+
+---
 
 <details>
 <summary style="font-weight:bold;">5. Food, qualities & mindfulness (Ahara & Gunas)</summary>

@@ -1,10 +1,10 @@
 ---
 layout: page
-subtitle: <h3>Fundamentals of Ayurveda</h3>
+subtitle: Fundamentals of Ayurveda
 ---
 
 <details>
-<summary style="font-weight:bold; font-size: 1.2em; margin-bottom: 10px;">1. Ayurveda: Definition</summary>
+<summary style="font-weight:bold;">1. Ayurveda: Definition</summary>
 
 <p>
 Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
@@ -13,13 +13,10 @@ Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or k
 <p>
 स्वस्थस्य स्वास्थ्य रक्षणं, आतुरस्य विकार प्रशमनं।<br>
 Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!<br>
-    
 Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
 </p>
 
-<p>
-The following indicators suggest a state of <b>good health</b>:
-</p>
+<p>The following indicators suggest a state of good health:</p>
 
 <p>
 <b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.<br>
@@ -40,7 +37,7 @@ The following indicators suggest a state of <b>good health</b>:
 </details>
 
 <details>
-<summary style="font-weight:bold; font-size: 1.2em; margin-top: 20px; margin-bottom: 10px;">2. 5 Elements in Ayurveda</summary>
+<summary style="font-weight:bold;">2. 5 Elements in Ayurveda</summary>
 
 <p>
 In the ancient Sanskrit texts of Ayurveda, particularly the Charaka Samhita and Sushruta Samhita, we find profound teachings about the Pancha Mahabhuta - the Five Great Elements. These elements - Akasha (Ether), Vayu (Air), Agni (Fire), Jala (Water), and Prithvi (Earth) - are not merely physical substances, but rather the fundamental principles that govern all of creation.
@@ -48,7 +45,7 @@ In the ancient Sanskrit texts of Ayurveda, particularly the Charaka Samhita and 
 
 <p>
 <b>Akasha: The Essence of Space (Ether)</b><br>
-In Ayurveda, Akasha represents space and is associated with the ears and sound. Modern medicine recognizes the importance of cellular spaces and interstitial fluids in maintaining homeostasis. The concept of Akasha may relate to the extracellular matrix and its role in cell signaling and tissue function. The Taittiriya Upanishad speaks of Akasha as the primordial element from which all others emerge. It is described as subtle, all-pervading, and the container for all existence. 
+In Ayurveda, Akasha represents space and is associated with the ears and sound. Modern medicine recognizes the importance of cellular spaces and interstitial fluids in maintaining homeostasis. The concept of Akasha may relate to the extracellular matrix and its role in cell signaling and tissue function. The Taittiriya Upanishad speaks of Akasha as the primordial element from which all others emerge. It is described as subtle, all-pervading, and the container for all existence.
 </p>
 
 <p>
@@ -78,7 +75,7 @@ As we delve deeper into Ayurvedic wisdom, we see how these elements combine to f
 </details>
 
 <details>
-<summary style="font-weight:bold; font-size: 1.2em; margin-top: 20px; margin-bottom: 10px;">3. Pancha Kosha: 5 layers of self</summary>
+<summary style="font-weight:bold;">3. Pancha Kosha: 5 layers of self</summary>
 
 <p>
 Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle than the last.
@@ -118,7 +115,7 @@ In Ayurveda, true health and happiness come from balancing all these layers. Whe
 </details>
 
 <details>
-<summary style="font-weight:bold; font-size: 1.2em; margin-top: 20px; margin-bottom: 10px;">4. Three Dosha</summary>
+<summary style="font-weight:bold;">4. Three Dosha</summary>
 
 <p>
 In Ayurveda, "dosha" refers to the three fundamental bodily humors: Vata, Pitta, and Kapha. These doshas govern the body's physiological and psychological functions, and their balance is crucial for maintaining health. The term "dosha" is derived from the Sanskrit word 'dus,' meaning 'to err,' implying a tendency to become imbalanced or faulty. In their balanced state, known as "prakrti," doshas support health and well-being. However, when imbalanced, or in their "vikrti" state, they can disrupt bodily tissues (dhatus) and lead to illness. Each dosha has distinct characteristics and influences different aspects of the body and mind, contributing to an individual's unique constitution.
@@ -147,20 +144,20 @@ Kapha dosha provides structure and stability to the body. It is involved in buil
 </p>
 
 <p>
-The key to health in Ayurveda lies in maintaining a balance of these doshas. When in equilibrium, they support vitality and well-being. However, imbalances can lead to dis-ease. 
+The key to health in Ayurveda lies in maintaining a balance of these doshas. When in equilibrium, they support vitality and well-being. However, imbalances can lead to dis-ease.
 </p>
 
 </details>
 
 <details>
-<summary style="font-weight:bold; font-size: 1.2em; margin-top: 20px; margin-bottom: 10px;">5. Food, qualities & mindfulness (Ahara & Gunas)</summary>
+<summary style="font-weight:bold;">5. Food, qualities & mindfulness (Ahara & Gunas)</summary>
 
 <p>
 Ahara (food) is a key principle in Ayurveda, encompassing not just food but also sensory inputs from our five senses. This holistic view highlights the significance of diet and lifestyle in achieving health, happiness, and harmony.
 </p>
 
 <p>
-<b>Three Gunas: </b><br>
+<b>Three Gunas:</b><br>
 Nature's Fundamental Qualities. In Sanskrit, "Guna" refers to the qualities that define all matter and energy. Ayurveda identifies three primary Gunas:
 </p>
 
@@ -179,12 +176,12 @@ As per Ayurveda, food affects both body and mind.
 <p>
 <b>Sattvic Foods</b>: Pure and nourishing; promote clarity and calmness (e.g., fresh, organic foods).<br>
 <b>Rajasic Foods</b>: Stimulating; can induce restlessness (e.g., spicy or sour foods).<br>
-<b>Tamasic Foods</b>: Heavy and dull; may lead to lethargy (e.g., stale or over-processed foods).<br>
+<b>Tamasic Foods</b>: Heavy and dull; may lead to lethargy (e.g., stale or over-processed foods).
 </p>
 
 <p>
 <b>Eight Principles of Eating:</b><br>
-Ayurveda outlines eight principles that govern healthy eating practices:<br>
+Ayurveda outlines eight principles that govern healthy eating practices:
 </p>
 
 <p>
@@ -195,7 +192,7 @@ Ayurveda outlines eight principles that govern healthy eating practices:<br>
 5. <b>Kala</b>: Timing of food intake.<br>
 6. <b>Upayoga</b>: The appropriate use of food.<br>
 7. <b>Samskara</b>: The effects of cooking methods on food.<br>
-8. <b>Viruddha</b>: Incompatibility in food combinations.<br>
+8. <b>Viruddha</b>: Incompatibility in food combinations.
 </p>
 
 <p>
@@ -229,3 +226,10 @@ The objective is not to eliminate any Guna but to achieve a harmonious balance. 
         </tr>
         <tr>
             <td>Vegetables</td>
+            <td>Sweet Potato, Lettuce, Parsley, Sprouts, Yellow Squash, Carrots, Beets, Zucchini, Pumpkin</td>
+            <td>Potato, Cauliflower, Broccoli, Spinach, Pickles, Bell Peppers</td>
+            <td>Mushrooms, Garlic, Onions</td>
+        </tr>
+        <tr>
+            <td>Beans</td>
+            <td>Mung Beans, Yellow Lentils (Moong Dal), Kidney

@@ -6,7 +6,7 @@ subtitle: Fundamentals of Ayurveda
 
 <details>
 
-<summary style="font-weight:bold;">1. Ayurveda: Definition </summary> 
+<summary style="font-weight:bold;">Ayurveda: Definition </summary> 
 
 <p>
 Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
@@ -46,38 +46,38 @@ The following indicators suggest a state of good health:</p>
 
 <details>
 
-<summary style="font-weight:bold;">2. 5 Elements in Ayurveda</summary>
+<summary style="font-weight:bold;">5 Elements in Ayurveda</summary>
 <p>
-    In the ancient Sanskrit texts of Ayurveda, particularly the Charaka Samhita and Sushruta Samhita, we find profound teachings about the Pancha Mahabhuta - theFive Great Elements. These elements - Akasha (Ether), Vayu (Air), Agni (Fire), Jala (Water), and Prithvi (Earth) - are not merely physical substances, butrather the  fundamental principles that govern all of creation.
+In the ancient Sanskrit texts of Ayurveda, particularly the Charaka Samhita and Sushruta Samhita, we find profound teachings about the Pancha Mahabhuta - theFiveGreat Elements. These elements - Akasha (Ether), Vayu (Air), Agni (Fire), Jala (Water), and Prithvi (Earth) - are not merely physical substances, butrather the fundamental principles that govern all of creation.
 </p>
 
 <p>
-    <b>Akasha: The Essence of Space (Ether)</b>
-    In Ayurveda, Akasha represents space and is associated with the ears and sound. Modern medicine recognizes the importance of cellular spaces and interstitialfluids in maintaining homeostasis. The concept of Akasha may relate to the extracellular matrix and its role in cell signaling and tissue function. TheTaittiriya Upanishad  speaks of Akasha as the primordial element from which all others emerge. It is described as subtle, all-pervading, and the container forall existence.
+<b>Akasha: The Essence of Space (Ether)</b>
+In Ayurveda, Akasha represents space and is associated with the ears and sound. Modern medicine recognizes the importance of cellular spaces and interstitialfluidsin maintaining homeostasis. The concept of Akasha may relate to the extracellular matrix and its role in cell signaling and tissue function. TheTaittiriyaUpanishad  speaks of Akasha as the primordial element from which all others emerge. It is described as subtle, all-pervading, and the container forall existence.
 </p>
 
 <p>
-    <b>Vayu: The Breath of Life (Air)</b> 
-    Vayu governs movement and is linked to the skin and touch. Prana, the vital life force, is a manifestation of Vayu. In Ayurvedic physiology, Vayu governs all  bodily movements, from the beating of our hearts to the flow of our thoughts. This element's properties align with our current understanding of the nervoussystem and cellular respiration. The movement of nerve impulses and the exchange of gases in the lungs exemplify Vayu's principles in action.
+<b>Vayu: The Breath of Life (Air)</b> 
+Vayu governs movement and is linked to the skin and touch. Prana, the vital life force, is a manifestation of Vayu. In Ayurvedic physiology, Vayu governs all bodily movements, from the beating of our hearts to the flow of our thoughts. This element's properties align with our current understanding of the nervoussystemand cellular respiration. The movement of nerve impulses and the exchange of gases in the lungs exemplify Vayu's principles in action.
 </p>
 
 <p>
 <b>Agni: The Transformative Fire</b> 
-    Agni is the element of transformation, associated with vision and metabolism. The Charaka Samhita emphasizes its role in digestion, metabolism, and theconversion of food into bodily tissues. In modern physiology, we can draw parallels between Agni and the body's metabolic processes, including enzyme functionand the electron transport chain in mitochondria.
+Agni is the element of transformation, associated with vision and metabolism. The Charaka Samhita emphasizes its role in digestion, metabolism, and theconversion offood into bodily tissues. In modern physiology, we can draw parallels between Agni and the body's metabolic processes, including enzyme functionand the electrontransport chain in mitochondria.
 </p>
 
 <p>
-    <b>Jala: The Flowing Waters</b> 
-    Jala represents cohesion and fluidity, connected to taste and bodily fluids. This concept aligns with our understanding of blood plasma, lymph, and theimportance of hydration in maintaining cellular function and overall health.
+<b>Jala: The Flowing Waters</b> 
+Jala represents cohesion and fluidity, connected to taste and bodily fluids. This concept aligns with our understanding of blood plasma, lymph, and theimportance of  hydration in maintaining cellular function and overall health.
 </p>
 
 <p>
-    <b>Prithvi: The Stable Earth</b>
-    Prithvi provides structure and stability, associated with smell and solid tissues. In contemporary terms, we can relate this to the musculoskeletal system,    connective tissues, and the body's structural components.
+<b>Prithvi: The Stable Earth</b>
+Prithvi provides structure and stability, associated with smell and solid tissues. In contemporary terms, we can relate this to the musculoskeletal system,   connective tissues, and the body's structural components.
 </p>
 
 <p>
-    As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedic diagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless  wisdom of ancient India.
+As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedicdiagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless  wisdomof ancient India.
 </p>
 
 </details>
@@ -85,7 +85,7 @@ The following indicators suggest a state of good health:</p>
 ---
 
 <details>
-<summary style="font-weight:bold;">3. Pancha Kosha: 5 layers of self</summary>
+<summary style="font-weight:bold;">Pancha Kosha: 5 layers of self</summary>
 
 <p>
 Pancha means "five" in Sanskrit, and Kosha means "sheath" or "layer." The Pancha Koshas are five interconnected layers of our existence, each one more subtle thanthe  last.
@@ -129,7 +129,7 @@ In Ayurveda, true health and happiness come from balancing all these layers. Whe
 
 <details>
 
-<summary style="font-weight:bold;">4. Three Dosha</summary>
+<summary style="font-weight:bold;">Three Dosha</summary>
 
 <p>
 In Ayurveda, "dosha" refers to the three fundamental bodily humors: Vata, Pitta, and Kapha. These doshas govern the body's physiological and psychological functions, and their balance is crucial for maintaining health. The term "dosha" is derived from the Sanskrit word 'dus,' meaning 'to err,' implying a tendency to become imbalanced or faulty. In their balanced state, known as "prakrti," doshas support health and well-being. However, when imbalanced, or in their "vikrti" state, they can disrupt bodily tissues (dhatus) and lead to illness. Each dosha has distinct characteristics and influences different aspects of the body and mind, contributing to an individual's unique constitution.
@@ -166,7 +166,7 @@ The key to health in Ayurveda lies in maintaining a balance of these doshas. Whe
 ---
 
 <details>
-<summary style="font-weight:bold;">5. Food, qualities & mindfulness (Ahara & Gunas)</summary>
+<summary style="font-weight:bold;">Food, qualities & mindfulness (Ahara & Gunas)</summary>
 
 <p>
 Ahara (food) is a key principle in Ayurveda, encompassing not just food but also sensory inputs from our five senses. This holistic view highlights the significance of diet and lifestyle in achieving health, happiness, and harmony.
@@ -215,12 +215,7 @@ Ayurveda outlines eight principles that govern healthy eating practices:
 The objective is not to eliminate any Guna but to achieve a harmonious balance. Increasing Sattva while moderating Rajas and Tamas is ideal for optimal health. By understanding these qualities, we can make informed dietary choices that enhance our well-being.
 </p>
 
-</details>
-
----
-
-<details>
-<summary style="font-weight:bold;">Table of Food Types</summary>
+<b>Table of Food Types</b><br>
 
 <table>
     <thead>

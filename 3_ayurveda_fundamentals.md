@@ -3,42 +3,46 @@ layout: page
 subtitle: Fundamentals of Ayurveda
 ---
 
+
 <details>
-    <summary style="font-weight:bold;">1. Ayurveda: Definition</summary>
 
-        <p>
-            Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body and spirit.
-        </p>
+<summary style="font-weight:bold;">1. Ayurveda: Definition </summary> 
 
-        <p>
-            स्वस्थस्य स्वास्थ्य रक्षणं, आतुरस्य विकार प्रशमनं।<br>
-            Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!<br>
-            Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
-        </p>
+<p>
+Ayurveda, derived from the Sanskrit words "ayur" (life) and "veda" (science or knowledge), is an ancient holistic healing system that originated in India over 5,000 years ago. It is often referred to as the "science of life" and aims to promote optimal health through a comprehensive approach addressing the mind, body, and spirit.
+</p>
 
-        <p>The following indicators suggest a state of good health:</p>
+<p>
+स्वस्थस्य स्वास्थ्य रक्षणं, आतुरस्य विकार प्रशमनं। 
+<br>
+Swasthasya Swasthya Rakshanam, Aturasya Vikar Prashamanam cha!
+<br>
+Meaning: (Ayurveda) maintain the well-being of those who are healthy and to alleviate the ailments of those who are ill. Ayurveda's focus extends beyond mere absence of physical disease, emphasizing the maintenance of overall health.
+<p>
+The following indicators suggest a state of good health:
+<p>
+<b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.<br>
+<b>Mala (मल)</b>: Proper elimination of bodily wastes.<br>
+<b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.<br>
+<b>Bala (बल)</b>: Natural strength and robust immunity.<br>
+<b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.<br>
+<b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.<br>
+<b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.<br>
+<b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.<br>
+<b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.<br>
+<b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.<br>
+<b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.<br>
+<b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.<br>
+<b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.
 
-        <p>
-            <b>Agni (अग्नि)</b>: Regular hunger and efficient digestion.<br>
-            <b>Mala (मल)</b>: Proper elimination of bodily wastes.<br>
-            <b>Nidra (निद्रा)</b>: Quality sleep and refreshed awakening.<br>
-            <b>Bala (बल)</b>: Natural strength and robust immunity.<br>
-            <b>Manas Prasannata (मनः प्रसन्नता)</b>: Mental tranquility and contentment.<br>
-            <b>Ojas (ओजस्)</b>: Stable energy levels throughout the day.<br>
-            <b>Dosha Samya (दोष साम्य)</b>: Balance of Vata, Pitta, and Kapha.<br>
-            <b>Dhatu Sarata (धातु सारता)</b>: Optimal functioning of tissues and waste products.<br>
-            <b>Indriya Prasannata (इन्द्रिय प्रसन्नता)</b>: Well-functioning senses and mental clarity.<br>
-            <b>Atma Bodha (आत्म बोध)</b>: Sense of spiritual well-being.<br>
-            <b>Ritu Satmya (ऋतु सात्म्य)</b>: Adaptability to seasonal changes.<br>
-            <b>Dinacharya (दिनचर्या)</b>: Following a healthy daily routine.<br>
-            <b>Sadvritta (सद्वृत्त)</b>: Practicing good conduct and social hygiene.
-        </p>
-
+</p>
+  
 </details>
 
 ---
 
 <details>
+
     <summary style="font-weight:bold;">2. 5 Elements in Ayurveda</summary>
 
     <p>
@@ -73,8 +77,6 @@ subtitle: Fundamentals of Ayurveda
     <p>
         As we delve deeper into Ayurvedic wisdom, we see how these elements combine to form the three doshas - Vata, Pitta, and Kapha - which are central to Ayurvedic  diagnosis and treatment. By working with these elemental principles, Ayurveda offers a profound path to health and self-realization, rooted in the timeless   wisdom of ancient India.
     </p>
-
-</details>
 
 ---
 
@@ -116,11 +118,13 @@ subtitle: Fundamentals of Ayurveda
     In Ayurveda, true health and happiness come from balancing all these layers. When we only focus on the physical body, we miss out on the deeper aspects of our being    that influence our well-being. Remember, the journey through the Pancha Koshas is a lifelong exploration. Be patient and compassionate with yourself as you delve deeper   into each layer. With time and practice, you'll discover a profound sense of wholeness and connection to your true self.
     </p>
 
+
 </details>
 
 ---
 
 <details>
+
 <summary style="font-weight:bold;">4. Three Dosha</summary>
 
 <p>
@@ -154,10 +158,10 @@ The key to health in Ayurveda lies in maintaining a balance of these doshas. Whe
 </p>
 
 </details>
-
+  
 ---
 
-<details>
+  <details>
 <summary style="font-weight:bold;">5. Food, qualities & mindfulness (Ahara & Gunas)</summary>
 
 <p>
@@ -207,8 +211,12 @@ Ayurveda outlines eight principles that govern healthy eating practices:
 The objective is not to eliminate any Guna but to achieve a harmonious balance. Increasing Sattva while moderating Rajas and Tamas is ideal for optimal health. By understanding these qualities, we can make informed dietary choices that enhance our well-being.
 </p>
 
-<details open>
-<summary>Table of Food Types</summary>
+</details>
+
+---
+
+<details>
+<summary style="font-weight:bold;">Table of Food Types</summary>
 
 <table>
     <thead>
@@ -241,3 +249,5 @@ The objective is not to eliminate any Guna but to achieve a harmonious balance. 
         <tr>
             <td>Beans</td>
             <td>Mung Beans, Yellow Lentils (Moong Dal), Kidney
+
+</details>

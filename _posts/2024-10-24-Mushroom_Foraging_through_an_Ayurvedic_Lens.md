@@ -7,7 +7,7 @@ author: Raki Yoga
 
 In Ayurveda, mushrooms are discussed in Charaka Samhita, where they are called "Chhatraka" and categorized as vegetables. They are described as heavy and smooth, with a sweet taste after digestion and a cooling effect on the body. Mushrooms can increase the kapha and vata doshas but may help reduce pitta. The Sushruta Samhita refers to them as "Kavaka," noting their benefits as an aphrodisiac and strength booster, while also warning that some types can be poisonous. The Bhavaprakasha adds more details about different kinds of mushrooms, emphasizing their heavy and smooth qualities. 
 
-![image](https://github.com/user-attachments/assets/8893c9c9-69d7-4275-9a1d-188a1a684eda)
+<img src="https://github.com/user-attachments/assets/8893c9c9-69d7-4275-9a1d-188a1a684eda" width="50%" alt="">
 
 As the leaves begin to turn and a crisp chill fills the air, nature offers up one of its most prized treasures: wild mushrooms. For those versed in Ayurveda, this autumnal gift couldn't be more timely. Let's explore how mushroom foraging aligns with Ayurvedic principles and how these fascinating fungi can support our well-being during the fall season.
 
@@ -24,10 +24,10 @@ There's something special about wild mushrooms freshly plucked from the forest f
 
 <b>**The Art of Mindful Foraging**<br>
 <b>Approaching mushroom foraging with an Ayurvedic mindset means embracing certain principles:<br>
-Practice ahimsa (non-violence) by harvesting sustainably.<br>
-Express gratitude to nature, enhancing the sattvic quality of your food.<br>
-Use all your senses to properly identify mushrooms.<br>
-Follow nature's cues and local wisdom for optimal foraging times.<br>
+<b>Practice ahimsa (non-violence) by harvesting sustainably.<br>
+<b>Express gratitude to nature, enhancing the sattvic quality of your food.<br>
+<b>Use all your senses to properly identify mushrooms.<br>
+<b>Follow nature's cues and local wisdom for optimal foraging times.<br>
 
 **Proper Handling: Preserving Prana**<br> 
 To maintain the mushrooms' vital energy and nutritional integrity:<br>

@@ -12,17 +12,17 @@ In Ayurveda, mushrooms are discussed in Charaka Samhita, where they are called "
 As the leaves begin to turn and a crisp chill fills the air, nature offers up one of its most prized treasures: wild mushrooms. For those versed in Ayurveda, this autumnal gift couldn't be more timely. Let's explore how mushroom foraging aligns with Ayurvedic principles and how these fascinating fungi can support our well-being during the fall season.
 
 
-<b>**The Mycelial Network: Nature's Intelligence**<br> 
+**The Mycelial Network: Nature's Intelligence**<br> 
 Unlike plants, mushrooms don't have roots. Instead, they grow from a vast underground network called mycelium. This intricate web of fungal threads is constantly communicating and sharing nutrients with the surrounding ecosystem. From an Ayurvedic perspective, this interconnectedness embodies the principle of unity in nature and contributes to the mushroom's unique prana or life force. The mycelium's ability to transform decaying matter into nourishment aligns with Ayurveda's emphasis on proper digestion and transformation of nutrients.
 
-<b>**Seasonal Rhythms and Dosha Balance**<br>
+**Seasonal Rhythms and Dosha Balance**<br>
 In Ayurveda, autumn is Vata season – a time characterized by dryness, coolness, and change. Wild mushrooms, with their grounding and nourishing qualities, serve as nature's perfect antidote to these Vata influences. Foraging connects us deeply to the earth's rhythms, providing sustenance that's in tune with our seasonal needs.
 
 
-<b>**Prana and Ojas: Nature's Vitality**<br> 
+**Prana and Ojas: Nature's Vitality**<br> 
 There's something special about wild mushrooms freshly plucked from the forest floor. They're bursting with prana – life force energy – in a way that cultivated mushrooms simply can't match. This vitality makes them particularly good at enhancing ojas, the subtle essence of health and immunity in Ayurvedic thought.
 
-<b>**The Art of Mindful Foraging**<br>
+**The Art of Mindful Foraging**
 <b>Approaching mushroom foraging with an Ayurvedic mindset means embracing certain principles:<br>
 <b>Practice ahimsa (non-violence) by harvesting sustainably.<br>
 <b>Express gratitude to nature, enhancing the sattvic quality of your food.<br>
@@ -37,12 +37,12 @@ Handle mushrooms with care to prevent bruising, which can lead to oxidation and 
 
 **From Forest to kitchen: Maximizing Mushroom Benefits**<br>
 To optimize your foraged mushrooms according to Ayurvedic principles:<br>
-Preserve Prana: Prepare soon after harvesting to maintain vital energy<br>
-Cook Thoroughly: Enhances digestibility and neutralizes potential toxins<br>
-Balance doshas with Spices: seeds (cumin, mustard, corriander) & powder (turmeric, ginger, black pepper)<br> 
-Ideal Pairings: Combine with spinach, kale, or green asparagus, Serve with rice or quinoa<br>
-Avoid: Nightshade vegetables (tomatoes, potatoes, eggplants)<br>
-Moderation: Enjoy in balanced amounts, as mushrooms can be heavy for some constitutions<br>
+**Preserve Prana**: Prepare soon after harvesting to maintain vital energy<br>
+**Cook Thoroughly**: Enhances digestibility and neutralizes potential toxins<br>
+**Balance doshas with Spices**: seeds (cumin, mustard, corriander) & powder (turmeric, ginger, black pepper)<br> 
+**Ideal Pairings**: Combine with spinach, kale, or green asparagus, Serve with rice or quinoa<br>
+**Avoid**: Nightshade vegetables (tomatoes, potatoes, eggplants)<br>
+**Moderation**: Enjoy in balanced amounts, as mushrooms can be heavy for some constitutions<br>
 
 ### Wild vs Cultivated Mushrooms
 
@@ -71,5 +71,20 @@ So grab your field guide, a woven basket, and head out into the autumn woods. Th
 
 ![image](https://github.com/user-attachments/assets/8f25b978-bec9-4c56-89e3-768203e748c4)
 
-
+| Common Mushrooms in Germany (German/English)                | Source                                      |
+|---------------------------------|---------------------------------------------|
+| Butterpilz / Slippery Jack                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Butterpilz.htm) |
+| Birkenpilz / Birch Bolete                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Birkenpilz.htm) |
+| Pfifferling / Chanterelle                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfifferling.htm) |
+| Marone / Bay Bolete                            | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Marone.htm) |
+| Krause Glucke / Hen of the Woods               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/KrauseGlucke.htm) |
+| Schopftintling / Shaggy Ink Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Schopftintling.htm) |
+| Filzröhrling / Suede Bolete                    | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Filzrohrling.htm) |
+| Körnchenröhrling / Granulated Bolete          | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kornchenrohrling.htm) |
+| Pfefferröhrling / Peppery Bolete               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferrohrling.htm) |
+| Sandröhrling / Sand Bolete                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Sandrohrling.htm) |
+| Goldröhrling / Golden Bolete                   | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Goldrohrling.htm) |
+| Kuhröhrling / Cow Bolete                       | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kuhrrohrling.htm) |
+| Flockenstieliger Hexenröhrling / Lurid Bolete | [123pilze.de](https://www.123pilze.de/DreamHC/Download/FlockenstieligerHexenrohrling.htm) |
+| Edel-Reizker / Saffron Milk Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/EdelReizker.htm) |
 **Warning**: Always consult experts or reliable guides before consuming any wild mushrooms!

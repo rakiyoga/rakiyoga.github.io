@@ -23,11 +23,11 @@ In Ayurveda, autumn is Vata season – a time characterized by dryness, coolness
 There's something special about wild mushrooms freshly plucked from the forest floor. They're bursting with prana – life force energy – in a way that cultivated mushrooms simply can't match. This vitality makes them particularly good at enhancing ojas, the subtle essence of health and immunity in Ayurvedic thought.
 
 **The Art of Mindful Foraging**<br>
-Approaching mushroom foraging with an Ayurvedic mindset means embracing certain principles:<br>
-Practice ahimsa (non-violence) by harvesting sustainably.<br>
-Express gratitude to nature, enhancing the sattvic quality of your food.<br>
-Use all your senses to properly identify mushrooms.<br>
-Follow nature's cues and local wisdom for optimal foraging times.<br>
+Approaching mushroom foraging with an Ayurvedic mindset means embracing certain principles:
+- Practice ahimsa (non-violence) by harvesting sustainably
+- Express gratitude to nature, enhancing the sattvic quality of your food
+- Use all your senses to properly identify mushrooms
+- Follow nature's cues and local wisdom for optimal foraging times
 
 **Proper Handling: Preserving Prana**
 - Avoid cleaning with water, which can wash away delicate flavors and compromise texture. Instead, gently brush off dirt with a soft brush or cloth.

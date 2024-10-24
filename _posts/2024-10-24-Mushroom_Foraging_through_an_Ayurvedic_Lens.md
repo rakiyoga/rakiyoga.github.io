@@ -87,4 +87,5 @@ So grab your field guide, a woven basket, and head out into the autumn woods. Th
 | Kuhröhrling / Cow Bolete                       | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kuhrrohrling.htm) |
 | Flockenstieliger Hexenröhrling / Lurid Bolete | [123pilze.de](https://www.123pilze.de/DreamHC/Download/FlockenstieligerHexenrohrling.htm) |
 | Edel-Reizker / Saffron Milk Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/EdelReizker.htm) |
+
 **Warning**: Always consult experts or reliable guides before consuming any wild mushrooms!

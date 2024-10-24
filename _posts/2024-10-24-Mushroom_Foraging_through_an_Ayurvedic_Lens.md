@@ -30,11 +30,12 @@ Approaching mushroom foraging with an Ayurvedic mindset means embracing certain 
 - Follow nature's cues and local wisdom for optimal foraging times<br>
 
 **Proper Handling: Preserving Prana**<br>
-- Avoid cleaning with water, which can wash away delicate flavors and compromise texture. Instead, gently brush off dirt with a soft brush or cloth.<br>
-- Never collect mushrooms in plastic bags, as this causes them to "sweat" and deteriorate quickly. Use a woven basket or paper bag to allow air circulation.<br>
-- Handle mushrooms with care to prevent bruising, which can lead to oxidation and loss of nutrients.<br>
+- Avoid cleaning with water, which can wash away delicate flavors and compromise texture. Instead, gently brush off dirt with a soft brush or cloth<br>
+- Never collect mushrooms in plastic bags, as this causes them to "sweat" and deteriorate quickly. Use a woven basket or paper bag to allow air circulation<br>
+- Handle mushrooms with care to prevent bruising, which can lead to oxidation and loss of nutrients<br>
 
 **From Forest to kitchen: Maximizing Mushroom Benefits**<br>
+
 To optimize your foraged mushrooms according to Ayurvedic principles:<br>
 **Preserve Prana**: Prepare soon after harvesting to maintain vital energy<br>
 **Cook Thoroughly**: Enhances digestibility and neutralizes potential toxins<br>

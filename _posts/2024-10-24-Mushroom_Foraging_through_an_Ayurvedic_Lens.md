@@ -35,7 +35,6 @@ Approaching mushroom foraging with an Ayurvedic mindset means embracing certain 
 - Handle mushrooms with care to prevent bruising, which can lead to oxidation and loss of nutrients<br>
 
 **From Forest to kitchen: Maximizing Mushroom Benefits**<br>
-
 To optimize your foraged mushrooms according to Ayurvedic principles:<br>
 **Preserve Prana**: Prepare soon after harvesting to maintain vital energy<br>
 **Cook Thoroughly**: Enhances digestibility and neutralizes potential toxins<br>

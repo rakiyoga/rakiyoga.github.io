@@ -29,11 +29,10 @@ Express gratitude to nature, enhancing the sattvic quality of your food.<br>
 Use all your senses to properly identify mushrooms.<br>
 Follow nature's cues and local wisdom for optimal foraging times.<br>
 
-**Proper Handling: Preserving Prana**<br> 
-To maintain the mushrooms' vital energy and nutritional integrity:<br>
-Avoid cleaning with water, which can wash away delicate flavors and compromise texture. Instead, gently brush off dirt with a soft brush or cloth.<br>
-Never collect mushrooms in plastic bags, as this causes them to "sweat" and deteriorate quickly. Use a woven basket or paper bag to allow air circulation.<br>
-Handle mushrooms with care to prevent bruising, which can lead to oxidation and loss of nutrients.<br>
+**Proper Handling: Preserving Prana**
+- Avoid cleaning with water, which can wash away delicate flavors and compromise texture. Instead, gently brush off dirt with a soft brush or cloth.
+- Never collect mushrooms in plastic bags, as this causes them to "sweat" and deteriorate quickly. Use a woven basket or paper bag to allow air circulation.
+- Handle mushrooms with care to prevent bruising, which can lead to oxidation and loss of nutrients.
 
 **From Forest to kitchen: Maximizing Mushroom Benefits**<br>
 To optimize your foraged mushrooms according to Ayurvedic principles:<br>

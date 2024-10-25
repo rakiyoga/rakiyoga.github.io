@@ -88,5 +88,5 @@ So grab your field guide, a woven basket, and head out into the autumn woods. Th
 | Filzröhrling / Suede Bolete                    | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Filzrohrling.htm) |
 | Körnchenröhrling / Granulated Bolete          | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kornchenrohrling.htm) |
 
-The bold-highlighted mushrooms are known for their potent medicinal properties.
+The bold-highlighted mushrooms are known for their potent medicinal properties.<br>
 **Warning**: Always consult with experts or refer to reliable guides before consuming any wild mushrooms!

@@ -70,21 +70,23 @@ So grab your field guide, a woven basket, and head out into the autumn woods. Th
 
 ![image](https://github.com/user-attachments/assets/8f25b978-bec9-4c56-89e3-768203e748c4)
 
-| Common Mushrooms in Germany (German/English)                | Source                                      |
+| common mushrooms in Germany (German/English)                | Source                                      |
 |---------------------------------|---------------------------------------------|
-| Butterpilz / Slippery Jack                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Butterpilz.htm) |
-| Birkenpilz / Birch Bolete                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Birkenpilz.htm) |
+| Steinpilz / Porcini                            | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Steinpilz.htm) |
 | Pfifferling / Chanterelle                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfifferling.htm) |
+| Butterpilz / Slippery Jack                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Butterpilz.htm) |
 | Marone / Bay Bolete                            | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Marone.htm) |
-| Krause Glucke / Hen of the Woods               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/KrauseGlucke.htm) |
+| Birkenpilz / Birch Bolete                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Birkenpilz.htm) |
+| Goldröhrling / Golden Bolete                   | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Goldrohrling.htm) |
+| **Krause Glucke** / Hen of the Woods               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/KrauseGlucke.htm) |
+| **Flockenstieliger Hexenröhrling** / Lurid Bolete | [123pilze.de](https://www.123pilze.de/DreamHC/Download/FlockenstieligerHexenrohrling.htm) |
 | Schopftintling / Shaggy Ink Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Schopftintling.htm) |
+| **Edel-Reizker** / Saffron Milk Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/EdelReizker.htm) |
+| Pfefferröhrling / Peppery Bolete               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferrohrling.htm) |
+| Kuhröhrling / Cow Bolete                       | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kuhrrohrling.htm) |
+| Sandröhrling / Sand Bolete                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Sandrohrling.htm) |
 | Filzröhrling / Suede Bolete                    | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Filzrohrling.htm) |
 | Körnchenröhrling / Granulated Bolete          | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kornchenrohrling.htm) |
-| Pfefferröhrling / Peppery Bolete               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferrohrling.htm) |
-| Sandröhrling / Sand Bolete                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Sandrohrling.htm) |
-| Goldröhrling / Golden Bolete                   | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Goldrohrling.htm) |
-| Kuhröhrling / Cow Bolete                       | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kuhrrohrling.htm) |
-| Flockenstieliger Hexenröhrling / Lurid Bolete | [123pilze.de](https://www.123pilze.de/DreamHC/Download/FlockenstieligerHexenrohrling.htm) |
-| Edel-Reizker / Saffron Milk Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/EdelReizker.htm) |
 
-**Warning**: Always consult experts or reliable guides before consuming any wild mushrooms!
+The bold-highlighted mushrooms are known for their potent medicinal properties.
+**Warning**: Always consult with experts or refer to reliable guides before consuming any wild mushrooms!

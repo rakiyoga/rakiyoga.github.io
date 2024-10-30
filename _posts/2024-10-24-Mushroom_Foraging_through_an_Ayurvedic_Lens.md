@@ -5,7 +5,7 @@ tags: [wild mushrooms, nature, prana, ojas]
 author: Raki Yoga
 ---
 
-In Ayurveda, mushrooms are discussed in Charaka Samhita, where they are called "Chhatraka" and categorized as vegetables. They are described as heavy and smooth, with a sweet taste after digestion and a cooling effect on the body. Mushrooms can increase the kapha and vata doshas but may help reduce pitta. The Sushruta Samhita refers to them as "Kavaka," noting their benefits as an aphrodisiac and strength booster, while also warning that some types can be poisonous. The Bhavaprakasha adds more details about different kinds of mushrooms, emphasizing their heavy and smooth qualities. 
+In Ayurveda, mushrooms are discussed in Charaka Samhita, where they are called "Chhatraka" and categorized as vegetables. They are described as heavy and smooth, with a sweet taste after digestion and a cooling effect on the body. Mushrooms can increase the kapha and vata doshas but may help reduce pitta. The Sushruta Samhita refers to them as "Kavaka," noting their benefits as an aphrodisiac and strength booster, while also warning that some types can be poisonous. 
 
 <img src="https://github.com/user-attachments/assets/8893c9c9-69d7-4275-9a1d-188a1a684eda" width="50%" alt="">
 
@@ -59,10 +59,10 @@ To optimize your foraged mushrooms according to Ayurvedic principles:<br>
 | **Availability**        | Seasonal, aligns with Ritucharya                  | Year-round availability                        |
 | **Environmental Impact** | Minimal when sustainably harvested                 | Resource-intensive                             |
 | **Toxicity Risk**       | Higher; requires expert identification             | Very low; safe for consumption                 |
-| **Ama (Toxins)**       | Helps in Ama pacification                         | May contribute to Ama if overconsumed         |
+| **Ama (Toxins)**       | Helps in Ama pacification                         | May incresases Ama if overconsumed         |
 | **Dhatus (Body Tissues)**  | Nourishes multiple Dhatus effectively         | Primarily nourishes Rasa and Mamsa Dhatus     |
 | **Medicinal Value** | Higher, diverse properties                | Lower but still has medicinal value            |
-| **Rasayana Effects**    | More pronounced rejuvenative effects              | Less potent but still beneficial               |
+
 
 Mushroom foraging in autumn isn't just about filling your basket. It's a chance to connect with nature's wisdom, nourish your body, and align with the season's energy. By approaching this ancient practice mindfully, we honor both Ayurvedic traditions and the gifts of the forest.
 
@@ -72,21 +72,22 @@ So grab your field guide, a woven basket, and head out into the autumn woods. Th
 
 | common mushrooms in Germany (German/English)                | Source                                      |
 |---------------------------------|---------------------------------------------|
-| Steinpilz / Porcini                            | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Steinpilz.htm) |
-| Pfifferling / Chanterelle                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferroehrling.htm)) |
+| Steinpilz / Porcini                            | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Steinpilze.htm) |
+| Pfifferling / Chanterelle                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferroehrling.htm) |
 | Butterpilz / Slippery Jack                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Butterroehring.htm) |
 | Marone / Bay Bolete                            | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Maronenroehrling.htm) |
 | Birkenpilz / Birch Bolete                      | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Birkenpilz.htm) |
-| Goldröhrling / Golden Bolete                   | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Goldrohrling.htm) |
+| Goldröhrling / Golden Bolete                   | [123pilze.de](https://www.123pilzsuche.de/daten/details/Goldroehrling.htm) |
 | **Krause Glucke** / Hen of the Woods               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/KrauseGlucke.htm) |
 | **Flockenstieliger Hexenröhrling** / Lurid Bolete | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Flocki.htm) |
 | Schopftintling / Shaggy Ink Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Schopftintling.htm) |
 | **Edel-Reizker** / Saffron Milk Cap                | [123pilze.de](https://www.123pilze.de/DreamHC/Download/EdelReizker.htm) |
-| Pfefferröhrling / Peppery Bolete               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferrohrling.htm) |
-| Kuhröhrling / Cow Bolete                       | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kuhrrohrling.htm) |
-| Sandröhrling / Sand Bolete                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Sandrohrling.htm) |
+| Pfefferröhrling / Peppery Bolete               | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Pfefferroehrling.htm) |
+| Kuhröhrling / Cow Bolete                       | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kuhroehrling.htm) |
+| Sandröhrling / Sand Bolete                     | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Sandroehrling.htm) |
 | Filzröhrling / Suede Bolete                    | [123pilze.de](https://www.123pilze.de/DreamHC/Download/BraunerFilzroehrling.htm) |
-| Körnchenröhrling / Granulated Bolete          | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Kornchenrohrling.htm) |
+| Körnchenröhrling / Granulated Bolete          | [123pilze.de](https://www.123pilze.de/DreamHC/Download/Koernchenroehrling.htm) |
 
 The bold-highlighted mushrooms are known for their potent **medicinal** properties.<br>
+
 **Warning**: Always consult with experts or refer to reliable guides before consuming any wild mushrooms!

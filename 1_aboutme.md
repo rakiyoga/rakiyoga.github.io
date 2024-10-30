@@ -3,10 +3,13 @@ layout: page
 title: About me
 subtitle: Ayurveda health consultant
 ---
-**HIPPOCRATES: You are what you eat.**
-**AYURVEDA: You are what you digest.**
-**लोकः समस्तः सुखिनो भवन्तु**  (Sanskrit Mantra: lokah samastah sukhino bhavantu, meaning: )
-May all beings in all worlds be happy and satisfied (Mögen alle Wesen in allen Welten glücklich und zufrieden sein).
+**HIPPOCRATES: You are what you eat.** <br>
+
+**AYURVEDA: You are what you digest.** <br>
+
+**लोकः समस्तः सुखिनो भवन्तु** <br>
+
+Sanskrit: lokah samastah sukhino bhavantu. Meaning: May all beings in all worlds be happy and satisfied (Mögen alle Wesen in allen Welten glücklich und zufrieden sein).
 
 
 ![comp](https://github.com/rakiyoga/rakiyoga.github.io/assets/32105064/f366491e-829a-42a8-aa02-2cf42bc21684)

@@ -64,11 +64,11 @@ To optimize your foraged mushrooms according to Ayurvedic principles:<br>
 | **Medicinal Value** | Higher, diverse properties                | Lower but still has medicinal value            |
 
 
+![image](https://github.com/user-attachments/assets/8f25b978-bec9-4c56-89e3-768203e748c4)
+
 Mushroom foraging in autumn isn't just about filling your basket. It's a chance to connect with nature's wisdom, nourish your body, and align with the season's energy. By approaching this ancient practice mindfully, we honor both Ayurvedic traditions and the gifts of the forest.
 
-So grab your field guide, a woven basket, and head out into the autumn woods. The mushrooms are waiting, ready to share their earthy magic and profound nourishment. Happy hunting!
-
-![image](https://github.com/user-attachments/assets/8f25b978-bec9-4c56-89e3-768203e748c4)
+So grab your field guide, a woven basket, and head out into the autumn woods. The mushrooms are waiting, ready to share their earthy magic and profound nourishment. 
 
 | common mushrooms in Germany (German/English)                | Source                                      |
 |---------------------------------|---------------------------------------------|

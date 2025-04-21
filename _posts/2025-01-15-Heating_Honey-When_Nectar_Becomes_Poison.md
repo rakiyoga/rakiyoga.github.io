@@ -16,12 +16,15 @@ Honey is also considered heavy and difficult to digest. When taken improperly—
 > — Charaka Samhita
 
 
->Sanskrit shloka, Ashtanga Hridaya, Sutrasthana 5.48:
+Sanskrit shloka, Ashtanga Hridaya, Sutrasthana 5.48:
 >
 > "मधु उष्णं च वीर्येण, शीतं च रससंस्थितम्।  
 > अग्नौ सृष्टं विषं तीक्ष्णं, मेदो धात्वधिकारि च॥"
-> (Honey is hot in potency but cold in its structural essence.  
-When heated, it loses its beneficial qualities and becomes harmful. Therefore, it should never be consumed hot.)
+>
+
+---
+*Meaning: Honey is hot in potency but cold in its structural essence. When heated, it loses its beneficial qualities and becomes harmful. Therefore, it should never be consumed hot.*
+
 ---
 
 

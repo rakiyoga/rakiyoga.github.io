@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Heating Honey -When Nectar Becomes Poison
+title: Heating Honey - When Nectar Becomes Poison
 tags: [honey, Swarna Prashana, cooking, heating, toxic]
 author: Raki Yoga
 ---
 
-Honey holds a revered place in Ayurvedic medicine. Far beyond its role as a sweetener, it is considered a potent therapeutic agent when used properly. But the very same substance, if misused—especially by heating—can become harmful to health. Ayurveda has long maintained that **heated honey is toxic**, and this caution deserves serious attention today.
+How often do you pour honey into your hot tea or stir it into warm milk, believing you're indulging in a soothing and healthy practice?  In Ayurveda, a traditional system of medicine with a deep respected place for honey, this common habit is viewed with serious concern. Far from being a simple sweetener, Ayurveda considers honey a potent therapeutic agent when used correctly. However, this very nectar, if mishandled—particularly through heating—is believed to transform into something detrimental to your health. For centuries, Ayurvedic wisdom has cautioned that **heated honey is toxic**, a warning that deserves our attention in today's world.
+
 
 <img src="https://github.com/user-attachments/assets/b629445a-b215-4742-b77d-0ad47d924670" width="50%">
 
@@ -30,7 +31,7 @@ Sanskrit shloka, Ashtanga Hridaya, Sutrasthana 5.48:
 
 ## Why Heated Honey Is Harmful
 
-One of Ayurveda's most explicit warnings is to **never heat honey**. When honey is exposed to high temperatures—such as being added to hot liquids, cooked in food, or baked—it undergoes a transformation. This alters its natural properties and generates **toxic compounds** (such as 5-Hydroxymethylfurfural, HMF,OMF etc.) that are difficult for the body to eliminate.
+One of Ayurveda's most explicit warnings is to **never heat honey**. When honey is exposed to high temperatures—such as being added to hot liquids, cooked in food, or baked—it undergoes a transformation. This alters its natural properties and generates **toxic compounds** (such as 5-Hydroxymethylfurfural, HMF, OMF etc.) that are difficult for the body to eliminate.
 This understanding is reflected today in various health findings that align closely with Ayurvedic teachings, revealing that heat-exposed honey may cause cellular and digestive disturbances, and lose its inherent therapeutic properties.
 
 ---
@@ -67,7 +68,7 @@ When used correctly, it:
 
 Ayurveda regards honey as a sacred substance, especially in the **Swarna Prashana** ritual—one of the 16 saṃskāras (rites of passage) for children, especially under *Jatakarma Samskara* (neonatal care). In this tradition, a tiny, meticulously prepared dose of honey is used as the primary base, blended with ghee, Swarna Bhasma (purified gold ash), and select medhya herbs to support memory, immunity, and vitality in children. Ideally given daily for 30–40 days from birth, or monthly on the day of Pushya Nakshatra (a specific lunar constellation).
 
-Since 1978, Western medicine has advised against giving honey to infants under one year old due to the risk of infant botulism, a rare illness caused by *Clostridium botulinum* spores. These spores, which can be found in honey as well as in soil and dust, may colonize an infant’s immature digestive system. So honey should be given only udner doctor's supervision.
+Since 1978, Western medicine has advised against giving honey to infants under one year old due to the risk of infant botulism, a rare illness caused by *Clostridium botulinum* spores. These spores, which can be found in honey as well as in soil and dust, may colonize an infant’s immature digestive system. Honey should be given to babies under one year of age only under a doctor's supervision.
 
 ---
 
@@ -75,5 +76,5 @@ Since 1978, Western medicine has advised against giving honey to infants under o
 
 Ayurveda teaches us that even the most beneficial substances can become harmful when used improperly. Honey is no exception. Its therapeutic power is profound, but only when used **uncooked, in moderation, and with understanding of its qualities**.
 
-Honey, when honored according to Ayurvedic principles, remains a powerful and sacred substance. When disregarded or misused, it can silently become a source of toxins and imbalance. Let us approach it with the **respect it deserves**—not as a simple sweetener, but as a **living medicine**, worthy of knowledge and care.
+Honey, when honored according to Ayurvedic principles, remains a powerful and sacred substance. When disregarded or misused, it can silently become a source of toxins and imbalance. Let us approach it with the respect it deserves—not as a simple sweetener, but as a **living medicine**, worthy of knowledge and care.
 

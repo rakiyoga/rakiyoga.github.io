@@ -6,7 +6,7 @@
     <p class="text-muted mb-4">Have a quick question or want to get in touch? Send me a message below.</p>
     
     <!-- IMPORTANT: Replace the action URL below with your actual Formspree endpoint -->
-    <form action="https://formspree.io/f/xgvwlewz" method="POST">
+    <form action="https://formspree.io/f/xgvwlewz" method="POST" id="quickMessageForm">
       <div class="form-group">
         <label for="simpleName">Name</label>
         <input type="text" name="name" class="form-control" id="simpleName" placeholder="Enter your name" required>
@@ -24,7 +24,13 @@
       <input type="hidden" name="_subject" value="New quick message from Raki Yoga website">
       <input type="text" name="_gotcha" style="display:none" /> <!-- Anti-spam honeypot -->
       
-      <button type="submit" class="btn btn-primary btn-lg mt-2">Send Message</button>
+      <button type="submit" class="btn btn-primary btn-lg mt-2" id="quickMessageBtn">Send Message</button>
+      <div id="quickMessageSuccess" class="alert alert-success mt-3" style="display: none;">
+        Thank you! Your message has been sent successfully.
+      </div>
+      <div id="quickMessageError" class="alert alert-danger mt-3" style="display: none;">
+        Oops! There was a problem submitting your form.
+      </div>
     </form>
   </div>
 
@@ -52,6 +58,55 @@
   </div>
 
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var form = document.getElementById("quickMessageForm");
+  var status = document.getElementById("quickMessageSuccess");
+  var errorStatus = document.getElementById("quickMessageError");
+  var btn = document.getElementById("quickMessageBtn");
+
+  if (form) {
+    form.addEventListener("submit", function(ev) {
+      ev.preventDefault();
+      var data = new FormData(form);
+      
+      btn.disabled = true;
+      btn.innerHTML = "Sending...";
+      status.style.display = "none";
+      errorStatus.style.display = "none";
+
+      fetch(form.action, {
+        method: form.method,
+        body: data,
+        headers: {
+          'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          status.style.display = "block";
+          form.reset();
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              errorStatus.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+            } else {
+              errorStatus.innerHTML = "Oops! There was a problem submitting your form"
+            }
+            errorStatus.style.display = "block";
+          })
+        }
+      }).catch(error => {
+        errorStatus.innerHTML = "Oops! There was a problem submitting your form"
+        errorStatus.style.display = "block";
+      }).finally(() => {
+        btn.disabled = false;
+        btn.innerHTML = "Send Message";
+      });
+    });
+  }
+});
+</script>
 
 <style>
   .contact-options-container {

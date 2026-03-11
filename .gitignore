@@ -1,13 +1,19 @@
-# project
+# Jekyll build output
 _site
 .sass-cache
+.jekyll-cache
+.jekyll-metadata
 .vagrant
 
-# general
+# OS generated files
 .DS_Store
 Thumbs.db
 ehthumbs.db
 
+# Ruby
 Gemfile.lock
-
 beautiful-jekyll-theme-*.gem
+
+# Node (not used, prevent accidental commits)
+node_modules/
+package-lock.json

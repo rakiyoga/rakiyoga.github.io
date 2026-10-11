@@ -80,6 +80,8 @@ We usually picture ego as arrogance. Ayurveda sees it more gently, as ahankara, 
 
 If your struggle is the deflated kind, night 9 is not about becoming smaller. You have been small long enough. It is about remembering that you belong.
 
+<img width="1018" height="1280" alt="image" src="https://github.com/user-attachments/assets/da483dd5-cd14-4e50-9cc8-246026d30799" />
+
 
 ## How to actually do this
 

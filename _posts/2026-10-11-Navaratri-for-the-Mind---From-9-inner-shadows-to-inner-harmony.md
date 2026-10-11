@@ -1,10 +1,7 @@
 ---
 layout: post
-title: "Navaratri for the Mind: From 9 inner shadows to inner harmony"
-date: 2026-10-11
-description: "Nine nights, nine burdens, one small practice each. A gentle Ayurvedic reading of Navaratri for anyone whose mind feels heavy, restless or hard on them."
+title: Navaratri for the Mind- From 9 inner shadows to inner harmony
 tags: [Navaratri, Ayurveda, Manas Roga, Mental Wellness, Tamas Rajas Sattva]
-keywords: "Navaratri mental wellness, Manas roga Ayurveda, tamas rajas sattva, Ayurvedic self-care for the mind, nine nights nine vices"
 ---
 
 Every autumn, in the days before Navaratri, my mother's kitchen would be scrubbed, the old spices thrown out, the brass polished. Nobody called it therapy. But the feeling afterwards, of a house with room to breathe, is exactly what these nine nights can offer the mind.
@@ -15,9 +12,9 @@ If your mind has felt heavy lately, or restless, or unusually hard on you, this 
 
 Ayurveda does not divide the mind into healthy and unhealthy. It describes three qualities that colour every mind, every day:
 
-- **Tamas (heaviness).** The quality that lets you sleep, rest, and stop. Too much of it, for too long, and you feel stuck, foggy, unable to begin.
-- **Rajas (restlessness).** The quality that gets you out of bed and into the world. Too much of it and you cannot stop: craving, arguing, chasing.
-- **Sattva (clarity).** The quality that lets you see what is actually true, and respond rather than react.
+- **Tamas (heaviness)** The quality that lets you sleep, rest, and stop. Too much of it, for too long, and you feel stuck, foggy, unable to begin.
+- **Rajas (restlessness)** The quality that gets you out of bed and into the world. Too much of it and you cannot stop: craving, arguing, chasing.
+- **Sattva (clarity)** The quality that lets you see what is actually true, and respond rather than react.
 
 Charaka put it in one line that Ayurvedic students still learn by heart:
 
@@ -82,6 +79,8 @@ We usually picture ego as arrogance. Ayurveda sees it more gently, as ahankara, 
 - **Deflated:** "I do not matter." Neglecting your own care, apologising for existing.
 
 If your struggle is the deflated kind, night 9 is not about becoming smaller. You have been small long enough. It is about remembering that you belong.
+
+<img width="1018" height="1280" alt="image" src="https://github.com/user-attachments/assets/da483dd5-cd14-4e50-9cc8-246026d30799" style="width: 40%; height: auto;" />
 
 
 ## How to actually do this

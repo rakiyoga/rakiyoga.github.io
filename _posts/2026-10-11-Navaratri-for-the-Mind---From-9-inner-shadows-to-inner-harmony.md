@@ -85,7 +85,14 @@ We usually picture ego as arrogance. Ayurveda sees it more gently, as ahankara, 
 - **Inflated:** "I am separate, better or worse." Comparison, loneliness, needing to win.
 - **Deflated:** "I do not matter." Neglecting your own care, apologising for existing.
  
-<img width="1672" height="941" alt="generated-image (8)" src="https://github.com/user-attachments/assets/9c595478-288d-44bf-a72d-a4e278eef880" />
+<img
+  class="navratri-infographic"
+  width="1672"
+  height="941"
+  alt="Navratri: From 9 Inner Shadows to Inner Harmony"
+  src="https://github.com/user-attachments/assets/9c595478-288d-44bf-a72d-a4e278eef880"
+  style="display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto;"
+/>
 
 
 If your struggle is the deflated kind, night 9 is not about becoming smaller. You have been small long enough. It is about remembering that you belong.

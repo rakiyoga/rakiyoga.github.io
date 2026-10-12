@@ -53,7 +53,7 @@ One night, one burden, one small practice. The Sanskrit terms are from Ayurveda'
 
 <style>
 .manas-table td:nth-child(4) {
-  font-size: 60%;
+  font-size: 70%;
 }
 </style>
 
@@ -84,8 +84,8 @@ We usually picture ego as arrogance. Ayurveda sees it more gently, as ahankara, 
 - **Steady:** "I am part of the whole." Self-respect, clear boundaries, no need to prove anything.
 - **Inflated:** "I am separate, better or worse." Comparison, loneliness, needing to win.
 - **Deflated:** "I do not matter." Neglecting your own care, apologising for existing.
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7bdd3980-c298-4a38-a9f9-1d007c92a087" />
+ 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/08712836-288f-4e8c-8a58-38b51f459b7a" />
 
 If your struggle is the deflated kind, night 9 is not about becoming smaller. You have been small long enough. It is about remembering that you belong.
 

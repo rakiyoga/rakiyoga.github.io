@@ -21,7 +21,7 @@ Charaka put it in one line that Ayurvedic students still learn by heart:
 > वायुः पित्तं कफश्चोक्तः शारीरो दोषसङ्ग्रहः।
 > मानसः पुनरुद्दिष्टो रजश्च तम एव च॥
 >
-> "Vayu, pitta and kapha are the bodily doshas; rajas and tamas are the mental ones." ([Charaka Samhita, Sutrasthana 1/57])
+> "Vayu, pitta and kapha are the bodily doshas; rajas and tamas are the mental ones." [Charaka Samhita, Sutrasthana 1/57]
 
 Notice what is not on the list. Sattva is never called a dosha. Clarity cannot be in excess. The whole journey below is simply this: let heaviness and restlessness settle, so that the clarity which was always there can show itself.
 
@@ -49,7 +49,13 @@ This is the stage of clarity. The burdens here are subtle: pride, envy, and the 
 
 ## Manas Bhāvas (Mental States) - the 10 steps
 
-One night, one burden, one small practice. The Sanskrit terms are from Ayurveda's own list of mind-based conditions ([Charak Samhita New Edition, Manas]). The "how it may feel" column is written for you, not about you; it is my reading, not a diagnosis.
+One night, one burden, one small practice. The Sanskrit terms are from Ayurveda's own list of mind-based conditions [Charak Samhita New Edition, Manas]. The "how it may feel" column is written for you, not about you; it is my reading, not a diagnosis.
+
+<style>
+.manas-table td:nth-child(4) {
+  font-size: 60%;
+}
+</style>
 
 | # | Guṇa (quality) | Burden (Sanskrit + English) | How it may feel to you | A small practice |
 | --- | --- | --- | --- | --- |
@@ -63,6 +69,7 @@ One night, one burden, one small practice. The Sanskrit terms are from Ayurveda'
 | 8 | Sattva (clarity) | Mātsarya (envy or unwillingness to share) | Īrṣyā (jealousy) and Abhyasūyā (fault-finding or resentment): comparison leaves you feeling diminished; others’ success becomes difficult to appreciate. | Appreciate one quality in another. |
 | 9 | Sattva (clarity) | Ahaṅkāra (ego or sense of self) | Shame, Guilt, Dainya (dejection), Abandonment, Loneliness, Helplessness, Hopelessness, and Vilāpa (lamentation): you blame yourself, feel left behind or alone, and struggle to see a way forward; distress may spill into crying or grieving aloud. | Be gentle; seek trusted support. |
 | 10 | Beyond the three Guṇas (qualities) | Balance | Harṣa (joy) and Prīti (affection or delight): you feel warmth and connection. Balance means having room for both pleasant and difficult feelings without reacting immediately. | Notice feelings without judging. |
+{: .manas-table }
 
 ## Why this order, and why it is kind
 
@@ -78,9 +85,9 @@ We usually picture ego as arrogance. Ayurveda sees it more gently, as ahankara, 
 - **Inflated:** "I am separate, better or worse." Comparison, loneliness, needing to win.
 - **Deflated:** "I do not matter." Neglecting your own care, apologising for existing.
 
-If your struggle is the deflated kind, night 9 is not about becoming smaller. You have been small long enough. It is about remembering that you belong.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7bdd3980-c298-4a38-a9f9-1d007c92a087" />
 
-<img width="1018" height="1280" alt="image" src="https://github.com/user-attachments/assets/da483dd5-cd14-4e50-9cc8-246026d30799" style="width: 40%; height: auto;" />
+If your struggle is the deflated kind, night 9 is not about becoming smaller. You have been small long enough. It is about remembering that you belong.
 
 
 ## How to actually do this
